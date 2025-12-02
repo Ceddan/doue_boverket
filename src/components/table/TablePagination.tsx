@@ -14,12 +14,9 @@ export function TablePagination<T>({ table }: TablePaginationProps<T>) {
   const endRow = Math.min((pageIndex + 1) * table.getState().pagination.pageSize, totalRows)
 
   return (
-    <div className="flex items-center justify-between px-4 py-3 border-t border-line bg-bg-secondary/30">
-      <div className="text-sm text-content-muted">
-        Visar{' '}
-        <span className="font-medium text-content-secondary">{startRow}</span>
-        {' - '}
-        <span className="font-medium text-content-secondary">{endRow}</span>
+    <div className="flex flex-col sm:flex-row items-center justify-between gap-2 px-4 py-3 border-t border-line bg-bg-secondary/30">
+      <div className="text-xs sm:text-sm text-content-muted">
+        <span className="font-medium text-content-secondary">{startRow}-{endRow}</span>
         {' av '}
         <span className="font-medium text-content-secondary">{totalRows}</span>
       </div>
@@ -42,10 +39,9 @@ export function TablePagination<T>({ table }: TablePaginationProps<T>) {
           {'<'}
         </Button>
 
-        <span className="px-3 text-sm text-content-secondary">
-          Sida{' '}
+        <span className="px-2 sm:px-3 text-xs sm:text-sm text-content-secondary">
           <span className="font-medium">{pageIndex + 1}</span>
-          {' av '}
+          {'/'}
           <span className="font-medium">{pageCount}</span>
         </span>
 

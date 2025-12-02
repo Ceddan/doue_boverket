@@ -51,13 +51,13 @@ function App() {
   return (
     <div className="h-screen flex flex-col overflow-hidden bg-surface-primary">
       {/* Header */}
-      <header className="bg-surface-secondary border-b border-border-primary px-6 py-4">
+      <header className="bg-surface-secondary border-b border-border-primary px-4 sm:px-6 py-4">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-xl font-bold text-content-primary">
+            <h1 className="text-lg sm:text-xl font-bold text-content-primary">
               Energideklarationer
             </h1>
-            <p className="text-sm text-content-muted">
+            <p className="text-xs sm:text-sm text-content-muted">
               {loadedCount} av {properties.length} med energiklass
             </p>
           </div>
@@ -65,45 +65,48 @@ function App() {
       </header>
 
       {/* Toolbar */}
-      <div className="bg-surface-secondary border-b border-border-primary px-6 py-3">
-        <div className="flex items-center gap-4 flex-wrap">
+      <div className="bg-surface-secondary border-b border-border-primary px-4 sm:px-6 py-3">
+        <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-4">
           <input
             type="text"
             placeholder="Sök fastighet, adress..."
             value={globalFilter}
             onChange={(e) => setGlobalFilter(e.target.value)}
-            className="px-3 py-2 border border-border-primary rounded-md bg-surface-primary text-content-primary placeholder:text-content-muted w-64"
+            className="px-3 py-2 border border-border-primary rounded-md bg-surface-primary text-content-primary placeholder:text-content-muted w-full sm:w-64"
           />
 
-          <select
-            value={selectedKommun}
-            onChange={(e) => setSelectedKommun(e.target.value)}
-            className="px-3 py-2 border border-border-primary rounded-md bg-surface-primary text-content-primary"
-          >
-            {kommunOptions.map(opt => (
-              <option key={opt.value} value={opt.value}>{opt.label}</option>
-            ))}
-          </select>
+          <div className="flex items-center gap-3 flex-wrap">
+            <select
+              value={selectedKommun}
+              onChange={(e) => setSelectedKommun(e.target.value)}
+              className="px-3 py-2 border border-border-primary rounded-md bg-surface-primary text-content-primary flex-1 sm:flex-none"
+            >
+              {kommunOptions.map(opt => (
+                <option key={opt.value} value={opt.value}>{opt.label}</option>
+              ))}
+            </select>
 
-          <label className="flex items-center gap-2 text-sm text-content-secondary">
-            <input
-              type="checkbox"
-              checked={showFetchedOnly}
-              onChange={(e) => setShowFetchedOnly(e.target.checked)}
-              className="rounded"
-            />
-            Endast med energiklass
-          </label>
+            <label className="flex items-center gap-2 text-sm text-content-secondary whitespace-nowrap">
+              <input
+                type="checkbox"
+                checked={showFetchedOnly}
+                onChange={(e) => setShowFetchedOnly(e.target.checked)}
+                className="rounded"
+              />
+              <span className="hidden sm:inline">Endast med energiklass</span>
+              <span className="sm:hidden">Med energiklass</span>
+            </label>
 
-          <select
-            value={pagination.pageSize}
-            onChange={(e) => setPagination(prev => ({ ...prev, pageSize: Number(e.target.value), pageIndex: 0 }))}
-            className="px-3 py-2 border border-border-primary rounded-md bg-surface-primary text-content-primary"
-          >
-            <option value={25}>25 per sida</option>
-            <option value={50}>50 per sida</option>
-            <option value={100}>100 per sida</option>
-          </select>
+            <select
+              value={pagination.pageSize}
+              onChange={(e) => setPagination(prev => ({ ...prev, pageSize: Number(e.target.value), pageIndex: 0 }))}
+              className="px-3 py-2 border border-border-primary rounded-md bg-surface-primary text-content-primary"
+            >
+              <option value={25}>25</option>
+              <option value={50}>50</option>
+              <option value={100}>100</option>
+            </select>
+          </div>
         </div>
       </div>
 

@@ -97,7 +97,7 @@ export function PropertiesTable({
   return (
     <div className="flex flex-col flex-1 overflow-hidden">
       <div className="flex-1 overflow-auto">
-        <table className="w-full text-left border-collapse">
+        <table className="w-full text-left border-collapse min-w-[640px]">
           <thead className="bg-bg-secondary sticky top-0 z-10">
             {table.getHeaderGroups().map(headerGroup => (
               <tr key={headerGroup.id}>
@@ -109,7 +109,7 @@ export function PropertiesTable({
                     <th
                       key={header.id}
                       className={cn(
-                        'px-4 py-3 font-medium text-content-secondary',
+                        'px-2 sm:px-4 py-2 sm:py-3 font-medium text-content-secondary text-xs sm:text-sm',
                         'border-b border-line',
                         canSort && 'cursor-pointer select-none hover:bg-bg-hover transition-colors'
                       )}
@@ -130,7 +130,7 @@ export function PropertiesTable({
               </tr>
             ))}
           </thead>
-          <tbody>
+          <tbody className="text-xs sm:text-sm">
             {table.getRowModel().rows.map((row, index) => (
               <tr
                 key={row.id}
@@ -144,7 +144,7 @@ export function PropertiesTable({
                 {row.getVisibleCells().map(cell => (
                   <td
                     key={cell.id}
-                    className="px-4 py-3"
+                    className="px-2 sm:px-4 py-2 sm:py-3"
                     style={{ width: cell.column.getSize() }}
                   >
                     {flexRender(cell.column.columnDef.cell, cell.getContext())}
