@@ -1,16 +1,11 @@
 import { useState, useMemo } from 'react'
-import type { SortingState, RowSelectionState, PaginationState } from '@tanstack/react-table'
+import type { SortingState, PaginationState } from '@tanstack/react-table'
 import { useProperties } from '@/hooks/useProperties'
-import { useBatchFetch } from '@/hooks/useBatchFetch'
-import { Header } from '@/components/layout/Header'
-import { Toolbar } from '@/components/layout/Toolbar'
 import { PropertiesTable } from '@/components/table/PropertiesTable'
-import { Scanner } from '@/components/scanner/Scanner'
 import { Spinner } from '@/components/ui'
 
 function App() {
   const { data: properties = [], isLoading, error } = useProperties()
-  const { batchFetch, isProcessing, progress } = useBatchFetch()
 
   // Table state
   const [globalFilter, setGlobalFilter] = useState('')
@@ -19,7 +14,6 @@ function App() {
   const [sorting, setSorting] = useState<SortingState>([
     { id: 'fastighetsbeteckning', desc: false },
   ])
-  const [rowSelection, setRowSelection] = useState<RowSelectionState>({})
   const [pagination, setPagination] = useState<PaginationState>({
     pageIndex: 0,
     pageSize: 50,
@@ -27,7 +21,7 @@ function App() {
 
   // Computed values
   const loadedCount = useMemo(
-    () => properties.filter(p => p.fetched_at).length,
+    () => properties.filter(p => p.energiklass).length,
     [properties]
   )
 
@@ -39,24 +33,9 @@ function App() {
     ]
   }, [properties])
 
-  const selectedCount = Object.keys(rowSelection).length
-
-  const handleBatchFetch = () => {
-    batchFetch(properties)
-  }
-
-  const handleFetchSelected = () => {
-    const selectedProperties = properties.filter((_, index) => rowSelection[index])
-    batchFetch(selectedProperties)
-  }
-
-  const handleClearSelection = () => {
-    setRowSelection({})
-  }
-
   if (error) {
     return (
-      <div className="h-screen flex items-center justify-center">
+      <div className="h-screen flex items-center justify-center bg-surface-primary">
         <div className="text-center">
           <h2 className="text-xl font-bold text-content-primary mb-2">
             Kunde inte ladda data
@@ -70,30 +49,65 @@ function App() {
   }
 
   return (
-    <div className="h-screen flex flex-col overflow-hidden">
-      <Header
-        loadedCount={loadedCount}
-        totalCount={properties.length}
-        onBatchFetch={handleBatchFetch}
-        isFetching={isProcessing}
-        fetchProgress={progress}
-      />
+    <div className="h-screen flex flex-col overflow-hidden bg-surface-primary">
+      {/* Header */}
+      <header className="bg-surface-secondary border-b border-border-primary px-6 py-4">
+        <div className="flex items-center justify-between">
+          <div>
+            <h1 className="text-xl font-bold text-content-primary">
+              Energideklarationer
+            </h1>
+            <p className="text-sm text-content-muted">
+              {loadedCount} av {properties.length} med energiklass
+            </p>
+          </div>
+        </div>
+      </header>
 
-      <Toolbar
-        globalFilter={globalFilter}
-        onGlobalFilterChange={setGlobalFilter}
-        showFetchedOnly={showFetchedOnly}
-        onShowFetchedOnlyChange={setShowFetchedOnly}
-        selectedKommun={selectedKommun}
-        onSelectedKommunChange={setSelectedKommun}
-        kommunOptions={kommunOptions}
-        selectedCount={selectedCount}
-        onFetchSelected={handleFetchSelected}
-        onClearSelection={handleClearSelection}
-        pageSize={pagination.pageSize}
-        onPageSizeChange={(size) => setPagination(prev => ({ ...prev, pageSize: size, pageIndex: 0 }))}
-      />
+      {/* Toolbar */}
+      <div className="bg-surface-secondary border-b border-border-primary px-6 py-3">
+        <div className="flex items-center gap-4 flex-wrap">
+          <input
+            type="text"
+            placeholder="Sök fastighet, adress..."
+            value={globalFilter}
+            onChange={(e) => setGlobalFilter(e.target.value)}
+            className="px-3 py-2 border border-border-primary rounded-md bg-surface-primary text-content-primary placeholder:text-content-muted w-64"
+          />
 
+          <select
+            value={selectedKommun}
+            onChange={(e) => setSelectedKommun(e.target.value)}
+            className="px-3 py-2 border border-border-primary rounded-md bg-surface-primary text-content-primary"
+          >
+            {kommunOptions.map(opt => (
+              <option key={opt.value} value={opt.value}>{opt.label}</option>
+            ))}
+          </select>
+
+          <label className="flex items-center gap-2 text-sm text-content-secondary">
+            <input
+              type="checkbox"
+              checked={showFetchedOnly}
+              onChange={(e) => setShowFetchedOnly(e.target.checked)}
+              className="rounded"
+            />
+            Endast med energiklass
+          </label>
+
+          <select
+            value={pagination.pageSize}
+            onChange={(e) => setPagination(prev => ({ ...prev, pageSize: Number(e.target.value), pageIndex: 0 }))}
+            className="px-3 py-2 border border-border-primary rounded-md bg-surface-primary text-content-primary"
+          >
+            <option value={25}>25 per sida</option>
+            <option value={50}>50 per sida</option>
+            <option value={100}>100 per sida</option>
+          </select>
+        </div>
+      </div>
+
+      {/* Main content */}
       <main className="flex-1 flex flex-col overflow-hidden">
         {isLoading ? (
           <div className="flex-1 flex items-center justify-center">
@@ -110,15 +124,13 @@ function App() {
             selectedKommun={selectedKommun}
             sorting={sorting}
             onSortingChange={setSorting}
-            rowSelection={rowSelection}
-            onRowSelectionChange={setRowSelection}
+            rowSelection={{}}
+            onRowSelectionChange={() => {}}
             pagination={pagination}
             onPaginationChange={setPagination}
           />
         )}
       </main>
-
-      <Scanner />
     </div>
   )
 }
