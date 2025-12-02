@@ -1,0 +1,12757 @@
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Resultat:431
+
+Skyddsrum: 105747-7
+Antal platser
+
+129
+
+Gatuadress
+
+Tessins väg 4A
+
+Fastighetsbeteckning
+
+Beritsholm 6
+
+Skyddsrumsnr
+
+105747-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106904-2
+Antal platser
+
+49
+
+Gatuadress
+
+Per Wickenbergsgatan 2
+
+Fastighetsbeteckning
+
+Mariedal 2
+
+Skyddsrumsnr
+
+106904-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106905-8
+Antal platser
+
+124
+
+Gatuadress
+
+Mariedalsvägen 15
+
+Fastighetsbeteckning
+
+Mariedal 2
+
+Skyddsrumsnr
+
+106905-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107457-6
+1 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+28
+
+Gatuadress
+
+Gustav Rydbergsgatan 7
+
+Fastighetsbeteckning
+
+Stegeborg 9
+
+Skyddsrumsnr
+
+107457-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 190721-8
+Antal platser
+
+78
+
+Gatuadress
+
+Malmöhusvägen 9
+
+Fastighetsbeteckning
+
+Turbinen 4
+
+Skyddsrumsnr
+
+190721-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 106161-4
+Antal platser
+
+100
+
+Gatuadress
+
+Roslins Väg 14
+
+Fastighetsbeteckning
+
+Hanaholm 8
+
+Skyddsrumsnr
+
+106161-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 105707-9
+Antal platser
+
+36
+
+Gatuadress
+
+Carl Hillsgatan 4A
+
+Fastighetsbeteckning
+
+Askim 5
+
+2 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+Fastighetsbeteckning
+
+Askim 5
+
+Skyddsrumsnr
+
+105707-9
+
+Kommunnamn
+
+Malmö
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107838-7
+Antal platser
+
+126
+
+Gatuadress
+
+Roslins väg 20 A
+
+Fastighetsbeteckning
+
+Vittsjöborg 4
+
+Skyddsrumsnr
+
+107838-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106159-3
+Antal platser
+
+134
+
+Gatuadress
+
+Tessins väg 8
+
+Fastighetsbeteckning
+
+Hanaholm 8
+
+Skyddsrumsnr
+
+106159-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106231-4
+Antal platser
+
+80
+
+Gatuadress
+
+Nils Forsbergsgatan 8
+
+Fastighetsbeteckning
+
+Hising 8
+
+Skyddsrumsnr
+
+106231-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+3 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107837-1
+Antal platser
+
+126
+
+Gatuadress
+
+Roslins väg 20 B
+
+Fastighetsbeteckning
+
+Vittsjöborg 4
+
+Skyddsrumsnr
+
+107837-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106160-9
+Antal platser
+
+130
+
+Gatuadress
+
+Kilian Zollsgatan 15
+
+Fastighetsbeteckning
+
+Hanaholm 8
+
+Skyddsrumsnr
+
+106160-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 105708-4
+Antal platser
+
+44
+
+Gatuadress
+
+Erikstorpsgatan 9
+
+Fastighetsbeteckning
+
+Askim 7
+
+Skyddsrumsnr
+
+105708-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+4 av 132
+
+ASKR
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 106148-3
+Antal platser
+
+129
+
+Gatuadress
+
+Ernst Ahlgrensgatan 1
+
+Fastighetsbeteckning
+
+Hammarshus 9
+
+Skyddsrumsnr
+
+106148-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106147-8
+Antal platser
+
+120
+
+Gatuadress
+
+Ernst Ahlgrensgatan 3 B
+
+Fastighetsbeteckning
+
+Hammarshus 8
+
+Skyddsrumsnr
+
+106147-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106230-9
+Antal platser
+
+32
+
+Gatuadress
+
+Roslins Väg 7
+
+Fastighetsbeteckning
+
+Hising 7
+
+Skyddsrumsnr
+
+106230-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 105966-8
+Antal platser
+
+5 av 132
+
+73
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Erikstorpsgatan 4
+
+Fastighetsbeteckning
+
+Erikstorp 5
+
+Skyddsrumsnr
+
+105966-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106146-2
+Antal platser
+
+91
+
+Gatuadress
+
+Ernst Ahlgrensgatan 5
+
+Fastighetsbeteckning
+
+Hammarshus 5
+
+Skyddsrumsnr
+
+106146-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 105965-2
+Antal platser
+
+56
+
+Gatuadress
+
+Erikstorpsgatan 6
+
+Fastighetsbeteckning
+
+Erikstorp 4
+
+Skyddsrumsnr
+
+105965-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106155-1
+Antal platser
+
+80
+
+Gatuadress
+
+Tessins Väg 10 B
+
+Fastighetsbeteckning
+
+Hanaholm 10
+
+Skyddsrumsnr
+
+106155-1
+
+6 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106158-8
+Antal platser
+
+80
+
+Gatuadress
+
+Tessins väg 10 C
+
+Fastighetsbeteckning
+
+Hanaholm 10
+
+Skyddsrumsnr
+
+106158-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 105963-1
+Antal platser
+
+114
+
+Gatuadress
+
+Erikstorpsgatan 10
+
+Fastighetsbeteckning
+
+Erikstorp 14
+
+Skyddsrumsnr
+
+105963-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107839-2
+Antal platser
+
+145
+
+Gatuadress
+
+Limhamsvägen 10 C
+
+Fastighetsbeteckning
+
+Vittsjöborg 3
+
+Skyddsrumsnr
+
+107839-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+7 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+ASKR
+
+Skyddsrum: 107840-8
+Antal platser
+
+144
+
+Gatuadress
+
+Limhamnsvägen 10 A
+
+Fastighetsbeteckning
+
+Vittsjöborg 3
+
+Skyddsrumsnr
+
+107840-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106039-0
+Antal platser
+
+60
+
+Gatuadress
+
+Erikstorpsgatan 14
+
+Fastighetsbeteckning
+
+Fräkne 8
+
+Skyddsrumsnr
+
+106039-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107501-4
+Antal platser
+
+86
+
+Gatuadress
+
+Ernst Ahlgrensgatan 4 A
+
+Fastighetsbeteckning
+
+Stjärnehus 8
+
+Skyddsrumsnr
+
+107501-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107503-5
+8 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+122
+
+Gatuadress
+
+Ernst Ahlgrensgatan 2
+
+Fastighetsbeteckning
+
+Stjärnehus 9
+
+Skyddsrumsnr
+
+107503-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106157-2
+Antal platser
+
+98
+
+Gatuadress
+
+Tessins väg 10 D
+
+Fastighetsbeteckning
+
+Hanaholm 10
+
+Skyddsrumsnr
+
+106157-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106038-5
+Antal platser
+
+80
+
+Gatuadress
+
+Roslins Väg 3
+
+Fastighetsbeteckning
+
+Fräkne 1
+
+Skyddsrumsnr
+
+106038-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 105967-3
+Antal platser
+
+64
+
+Gatuadress
+
+Regementsgatan 15
+
+Fastighetsbeteckning
+
+Erikstorp 13
+
+9 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+Fastighetsbeteckning
+
+Erikstorp 13
+
+Skyddsrumsnr
+
+105967-3
+
+Kommunnamn
+
+Malmö
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107499-5
+Antal platser
+
+140
+
+Gatuadress
+
+Ernst Ahlgrensgatan 6 B
+
+Fastighetsbeteckning
+
+Stjärnehus 7
+
+Skyddsrumsnr
+
+107499-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107500-9
+Antal platser
+
+94
+
+Gatuadress
+
+Ernst Ahlgrensgatan 4 C
+
+Fastighetsbeteckning
+
+Stjärnehus 8
+
+Skyddsrumsnr
+
+107500-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106156-7
+Antal platser
+
+52
+
+Gatuadress
+
+Tessins väg 10 F
+
+Fastighetsbeteckning
+
+Hanaholm 10
+
+Skyddsrumsnr
+
+106156-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+10 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107842-9
+Antal platser
+
+128
+
+Gatuadress
+
+Limhamnsvägen 12 C
+
+Fastighetsbeteckning
+
+Vittsjöborg 2
+
+Skyddsrumsnr
+
+107842-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106040-6
+Antal platser
+
+120
+
+Gatuadress
+
+Regementsgatan 17
+
+Fastighetsbeteckning
+
+Fräkne 8
+
+Skyddsrumsnr
+
+106040-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107841-3
+Antal platser
+
+124
+
+Gatuadress
+
+Limhamnsvägen 12 A
+
+Fastighetsbeteckning
+
+Vittsjöborg 2
+
+Skyddsrumsnr
+
+107841-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+11 av 132
+
+S7
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 106154-6
+Antal platser
+
+92
+
+Gatuadress
+
+Kilian Zollsgatan 21
+
+Fastighetsbeteckning
+
+Hanaholm 1
+
+Skyddsrumsnr
+
+106154-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106150-4
+Antal platser
+
+80
+
+Gatuadress
+
+Tessins väg 12
+
+Fastighetsbeteckning
+
+Hanaholm 1
+
+Skyddsrumsnr
+
+106150-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106608-3
+Antal platser
+
+268
+
+Gatuadress
+
+Regementsgatan 54
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106608-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106609-9
+Antal platser
+
+12 av 132
+
+132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Mariedalsvägen 32 A
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106609-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106614-6
+Antal platser
+
+264
+
+Gatuadress
+
+Regementsgatan 52 A
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106614-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 107494-8
+Antal platser
+
+117
+
+Gatuadress
+
+Sergels väg 11 C
+
+Fastighetsbeteckning
+
+Stjärnehus 1
+
+Skyddsrumsnr
+
+107494-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107497-4
+Antal platser
+
+124
+
+Gatuadress
+
+Sergels Väg 9A
+
+Fastighetsbeteckning
+
+Stjärnehus 3
+
+Skyddsrumsnr
+
+107497-4
+
+13 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107495-3
+Antal platser
+
+88
+
+Gatuadress
+
+Sergels väg 11 A
+
+Fastighetsbeteckning
+
+Stjärnehus 1
+
+Skyddsrumsnr
+
+107495-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107496-9
+Antal platser
+
+89
+
+Gatuadress
+
+Sergels Väg 9C
+
+Fastighetsbeteckning
+
+Stjärnehus 3
+
+Skyddsrumsnr
+
+107496-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106152-5
+Antal platser
+
+32
+
+Gatuadress
+
+Sergels Väg 5 C
+
+Fastighetsbeteckning
+
+Hanaholm 1
+
+Skyddsrumsnr
+
+106152-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+14 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+ASKR
+
+Skyddsrum: 106610-4
+Antal platser
+
+140
+
+Gatuadress
+
+Mariedalsvägen 32 E
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106610-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107843-4
+Antal platser
+
+129
+
+Gatuadress
+
+Sergels väg 13
+
+Fastighetsbeteckning
+
+Vittsjöborg 1
+
+Skyddsrumsnr
+
+107843-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107845-5
+Antal platser
+
+120
+
+Gatuadress
+
+Sergels väg 13
+
+Fastighetsbeteckning
+
+Vittsjöborg 1
+
+Skyddsrumsnr
+
+107845-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 220491-7
+15 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+90
+
+Gatuadress
+
+Västra Älvgatan 6
+
+Fastighetsbeteckning
+
+Abborren 2
+
+Skyddsrumsnr
+
+220491-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR
+
+Skyddsrum: 106153-0
+Antal platser
+
+130
+
+Gatuadress
+
+Sergels Väg 5 B
+
+Fastighetsbeteckning
+
+Hanaholm 1
+
+Skyddsrumsnr
+
+106153-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106615-1
+Antal platser
+
+264
+
+Gatuadress
+
+Regementsgatan 52 C
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106615-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 167052-5
+Antal platser
+
+120
+
+Gatuadress
+
+Lundbergsgatan 7
+
+Fastighetsbeteckning
+
+Riga 9
+
+16 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+Fastighetsbeteckning
+
+Riga 9
+
+Skyddsrumsnr
+
+167052-5
+
+Kommunnamn
+
+Malmö
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 107166-4
+Antal platser
+
+68
+
+Gatuadress
+
+Regementsgatan 70
+
+Fastighetsbeteckning
+
+Reval 5
+
+Skyddsrumsnr
+
+107166-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160220-9
+Antal platser
+
+116
+
+Gatuadress
+
+Sergels väg 14A
+
+Fastighetsbeteckning
+
+Örehus 4
+
+Skyddsrumsnr
+
+160220-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106790-4
+Antal platser
+
+104
+
+Gatuadress
+
+Sergels Väg 10 B
+
+Fastighetsbeteckning
+
+Ljungbyhus 4
+
+Skyddsrumsnr
+
+106790-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+17 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106792-5
+Antal platser
+
+49
+
+Gatuadress
+
+Sergels Väg 10 A
+
+Fastighetsbeteckning
+
+Ljungbyhus 4
+
+Skyddsrumsnr
+
+106792-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106789-9
+Antal platser
+
+148
+
+Gatuadress
+
+Sergels Väg 12
+
+Fastighetsbeteckning
+
+Ljungbyhus 12
+
+Skyddsrumsnr
+
+106789-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106612-5
+Antal platser
+
+248
+
+Gatuadress
+
+Mariedalsvägen 32 H
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106612-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+18 av 132
+
+ASKR
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 160219-3
+Antal platser
+
+129
+
+Gatuadress
+
+Sergels väg 14B
+
+Fastighetsbeteckning
+
+Örehus 4
+
+Skyddsrumsnr
+
+160219-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 176401-0
+Antal platser
+
+120
+
+Gatuadress
+
+Lundbergsgatan 8
+
+Fastighetsbeteckning
+
+Sigrid 13
+
+Skyddsrumsnr
+
+176401-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106613-0
+Antal platser
+
+240
+
+Gatuadress
+
+Mariedalsvägen 32F
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106613-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107847-6
+Antal platser
+
+19 av 132
+
+80
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Sergels Väg 3
+
+Fastighetsbeteckning
+
+Vreta 1
+
+Skyddsrumsnr
+
+107847-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 193403-7
+Antal platser
+
+180
+
+Gatuadress
+
+Skeppsbyggaregatan 7
+
+Fastighetsbeteckning
+
+Hamnen 21:152
+
+Skyddsrumsnr
+
+193403-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 106551-4
+Antal platser
+
+96
+
+Gatuadress
+
+Tessins Väg 14
+
+Fastighetsbeteckning
+
+Krageholm 3
+
+Skyddsrumsnr
+
+106551-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106616-7
+Antal platser
+
+265
+
+Gatuadress
+
+Fågelbacksgatan 11 G
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106616-7
+
+20 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160516-8
+Antal platser
+
+60
+
+Gatuadress
+
+Tärningsholmsgatan 5 A-B
+
+Fastighetsbeteckning
+
+Ulla 3
+
+Skyddsrumsnr
+
+160516-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB74
+
+Skyddsrum: 106553-5
+Antal platser
+
+85
+
+Gatuadress
+
+Sergels Väg 6
+
+Fastighetsbeteckning
+
+Krageholm 3
+
+Skyddsrumsnr
+
+106553-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107618-0
+Antal platser
+
+94
+
+Gatuadress
+
+Tärningholmsgatan 7
+
+Fastighetsbeteckning
+
+Ulla 4
+
+Skyddsrumsnr
+
+107618-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+21 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+NSKR
+
+Skyddsrum: 200513-1
+Antal platser
+
+140
+
+Gatuadress
+
+Östra Kristinelundsvägen 3
+
+Fastighetsbeteckning
+
+Sigrid 12
+
+Skyddsrumsnr
+
+200513-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 106785-7
+Antal platser
+
+72
+
+Gatuadress
+
+Nicoloviusgatan 6
+
+Fastighetsbeteckning
+
+Ljungbyhus 12
+
+Skyddsrumsnr
+
+106785-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106786-2
+Antal platser
+
+72
+
+Gatuadress
+
+Nicoloviusgatan 6 B
+
+Fastighetsbeteckning
+
+Ljungbyhus 12
+
+Skyddsrumsnr
+
+106786-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106787-8
+22 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+144
+
+Gatuadress
+
+Tessins Väg 17 B
+
+Fastighetsbeteckning
+
+Ljungbyhus 6
+
+Skyddsrumsnr
+
+106787-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107299-8
+Antal platser
+
+74
+
+Gatuadress
+
+Östra Kristinelundsvägen 9
+
+Fastighetsbeteckning
+
+Sigrid 10
+
+Skyddsrumsnr
+
+107299-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106549-3
+Antal platser
+
+100
+
+Gatuadress
+
+Kilian Zollsgatan 27 D
+
+Fastighetsbeteckning
+
+Krageholm 3
+
+Skyddsrumsnr
+
+106549-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160218-8
+Antal platser
+
+132
+
+Gatuadress
+
+Nicoloviusgatan 3
+
+Fastighetsbeteckning
+
+Örehus 3
+
+23 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+Fastighetsbeteckning
+
+Örehus 3
+
+Skyddsrumsnr
+
+160218-8
+
+Kommunnamn
+
+Malmö
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106788-3
+Antal platser
+
+52
+
+Gatuadress
+
+Tessins Väg 17 A
+
+Fastighetsbeteckning
+
+Ljungbyhus 6
+
+Skyddsrumsnr
+
+106788-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106617-2
+Antal platser
+
+140
+
+Gatuadress
+
+Fågelbacksgatan 11 D
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106617-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160217-2
+Antal platser
+
+133
+
+Gatuadress
+
+Limhamnsvägen 18A
+
+Fastighetsbeteckning
+
+Örehus 3
+
+Skyddsrumsnr
+
+160217-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+24 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107619-6
+Antal platser
+
+124
+
+Gatuadress
+
+Tärningholmsgatan 9
+
+Fastighetsbeteckning
+
+Ulla 5
+
+Skyddsrumsnr
+
+107619-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106618-8
+Antal platser
+
+140
+
+Gatuadress
+
+Fågelbacksgatan 11 C
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106618-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106811-7
+Antal platser
+
+149
+
+Gatuadress
+
+Mariedalsvägen 31
+
+Fastighetsbeteckning
+
+Luggude 8
+
+Skyddsrumsnr
+
+106811-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+25 av 132
+
+NSKR
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 106550-9
+Antal platser
+
+81
+
+Gatuadress
+
+Kilian Zollsgatan 27 A
+
+Fastighetsbeteckning
+
+Krageholm 3
+
+Skyddsrumsnr
+
+106550-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160390-4
+Antal platser
+
+55
+
+Gatuadress
+
+Herrestadsgatan 2-4
+
+Fastighetsbeteckning
+
+Luggude 7
+
+Skyddsrumsnr
+
+160390-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106782-0
+Antal platser
+
+65
+
+Gatuadress
+
+Nicoloviusgatan 8 B
+
+Fastighetsbeteckning
+
+Ljungbyhus 10
+
+Skyddsrumsnr
+
+106782-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106781-5
+Antal platser
+
+26 av 132
+
+122
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Nicoloviusgatan 8 A
+
+Fastighetsbeteckning
+
+Ljungbyhus 10
+
+Skyddsrumsnr
+
+106781-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106201-0
+Antal platser
+
+69
+
+Gatuadress
+
+Östra Kristinelundsvägen 8A
+
+Fastighetsbeteckning
+
+Herrestad 7
+
+Skyddsrumsnr
+
+106201-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106202-6
+Antal platser
+
+72
+
+Gatuadress
+
+Herrestadsgatan 1
+
+Fastighetsbeteckning
+
+Herrestad 8
+
+Skyddsrumsnr
+
+106202-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 160215-1
+Antal platser
+
+146
+
+Gatuadress
+
+Nicoloviusgatan 5 A
+
+Fastighetsbeteckning
+
+Örehus 2
+
+Skyddsrumsnr
+
+160215-1
+
+27 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106784-1
+Antal platser
+
+65
+
+Gatuadress
+
+Tessins Väg 19 A
+
+Fastighetsbeteckning
+
+Ljungbyhus 7
+
+Skyddsrumsnr
+
+106784-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106783-6
+Antal platser
+
+140
+
+Gatuadress
+
+Tessins Väg 19 B
+
+Fastighetsbeteckning
+
+Ljungbyhus 7
+
+Skyddsrumsnr
+
+106783-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107621-7
+Antal platser
+
+45
+
+Gatuadress
+
+Skvadronsgatan 22B
+
+Fastighetsbeteckning
+
+Ulla 7
+
+Skyddsrumsnr
+
+107621-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+28 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+S7
+
+Skyddsrum: 160216-7
+Antal platser
+
+128
+
+Gatuadress
+
+Nicoloviusgatan 5 B
+
+Fastighetsbeteckning
+
+Örehus 2
+
+Skyddsrumsnr
+
+160216-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 175429-0
+Antal platser
+
+180
+
+Gatuadress
+
+Carl Gustavs väg 4
+
+Fastighetsbeteckning
+
+Excellensen 5
+
+Skyddsrumsnr
+
+175429-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 175430-6
+Antal platser
+
+180
+
+Gatuadress
+
+Carl Gustavs väg 4
+
+Fastighetsbeteckning
+
+Excellensen 5
+
+Skyddsrumsnr
+
+175430-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 175431-1
+29 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+180
+
+Gatuadress
+
+Carl Gustavs väg 4
+
+Fastighetsbeteckning
+
+Excellensen 5
+
+Skyddsrumsnr
+
+175431-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 175432-7
+Antal platser
+
+90
+
+Gatuadress
+
+Carl Gustavs väg 4
+
+Fastighetsbeteckning
+
+Excellensen 5
+
+Skyddsrumsnr
+
+175432-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106621-4
+Antal platser
+
+266
+
+Gatuadress
+
+Fågelbacksgatan 11 A
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106621-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106620-9
+Antal platser
+
+305
+
+Gatuadress
+
+Fågelbacksgatan 13
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+30 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106620-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106619-3
+Antal platser
+
+244
+
+Gatuadress
+
+Fågelbacksgatan 15
+
+Fastighetsbeteckning
+
+Kronprinsen 1
+
+Skyddsrumsnr
+
+106619-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106125-8
+Antal platser
+
+18
+
+Gatuadress
+
+Regementsgatan 86
+
+Fastighetsbeteckning
+
+Göinge 7
+
+Skyddsrumsnr
+
+106125-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106203-1
+Antal platser
+
+36
+
+Gatuadress
+
+Herrestadsgatan 3
+
+Fastighetsbeteckning
+
+Herrestad 9
+
+Skyddsrumsnr
+
+106203-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+31 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107779-7
+Antal platser
+
+60
+
+Gatuadress
+
+Tärningholmsgatan 13 D
+
+Fastighetsbeteckning
+
+Vemmenhög 6
+
+Skyddsrumsnr
+
+107779-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107778-1
+Antal platser
+
+40
+
+Gatuadress
+
+Tärningholmsgatan 13
+
+Fastighetsbeteckning
+
+Vemmenhög 6
+
+Skyddsrumsnr
+
+107778-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106126-3
+Antal platser
+
+80
+
+Gatuadress
+
+Regementsgatan 86
+
+Fastighetsbeteckning
+
+Göinge 7
+
+Skyddsrumsnr
+
+106126-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+32 av 132
+
+S7
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 105969-4
+Antal platser
+
+136
+
+Gatuadress
+
+Thottsgatan 3
+
+Fastighetsbeteckning
+
+Excellensen 2
+
+Skyddsrumsnr
+
+105969-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 193402-1
+Antal platser
+
+180
+
+Gatuadress
+
+Skeppsgatan 13
+
+Fastighetsbeteckning
+
+Jungmannen 1
+
+Skyddsrumsnr
+
+193402-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 106777-3
+Antal platser
+
+300
+
+Gatuadress
+
+Nicoloviusgatan 10 B-C
+
+Fastighetsbeteckning
+
+Ljungbyhus 9
+
+Skyddsrumsnr
+
+106777-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 106200-5
+Antal platser
+
+33 av 132
+
+64
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Fågelbacksgatan 27
+
+Fastighetsbeteckning
+
+Herrestad 7
+
+Skyddsrumsnr
+
+106200-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 105968-9
+Antal platser
+
+136
+
+Gatuadress
+
+Thottsgatan 3
+
+Fastighetsbeteckning
+
+Excellensen 2
+
+Skyddsrumsnr
+
+105968-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160214-6
+Antal platser
+
+364
+
+Gatuadress
+
+Limhamnsvägen 22 A-C
+
+Fastighetsbeteckning
+
+Örehus 1
+
+Skyddsrumsnr
+
+160214-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 106779-4
+Antal platser
+
+120
+
+Gatuadress
+
+Henrik Wranersgatan 1 A
+
+Fastighetsbeteckning
+
+Ljungbyhus 8
+
+Skyddsrumsnr
+
+106779-4
+
+34 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106778-9
+Antal platser
+
+132
+
+Gatuadress
+
+Henrik Wranérsgatan 1 C
+
+Fastighetsbeteckning
+
+Ljungbyhus 8
+
+Skyddsrumsnr
+
+106778-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107772-9
+Antal platser
+
+38
+
+Gatuadress
+
+Fågelbacksgatan 14
+
+Fastighetsbeteckning
+
+Vapensmeden 2
+
+Skyddsrumsnr
+
+107772-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106127-9
+Antal platser
+
+54
+
+Gatuadress
+
+Östra Ryttmästaregatan 15
+
+Fastighetsbeteckning
+
+Göinge 6
+
+Skyddsrumsnr
+
+106127-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+35 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+S7
+
+Skyddsrum: 105752-4
+Antal platser
+
+48
+
+Gatuadress
+
+Östra Stallmästaregatan 12
+
+Fastighetsbeteckning
+
+Bjäre 6
+
+Skyddsrumsnr
+
+105752-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106543-0
+Antal platser
+
+92
+
+Gatuadress
+
+Tessins Väg 18 A
+
+Fastighetsbeteckning
+
+Krageholm 6
+
+Skyddsrumsnr
+
+106543-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107773-4
+Antal platser
+
+41
+
+Gatuadress
+
+Eriksrogatan 3
+
+Fastighetsbeteckning
+
+Vapensmeden 2
+
+Skyddsrumsnr
+
+107773-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107174-8
+36 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+117
+
+Gatuadress
+
+Henrik Wranérsgatan 4
+
+Fastighetsbeteckning
+
+Ribersborg 4
+
+Skyddsrumsnr
+
+107174-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 195867-6
+Antal platser
+
+180
+
+Gatuadress
+
+Fågelbacksgatan 4
+
+Fastighetsbeteckning
+
+Stallmästaren 3
+
+Skyddsrumsnr
+
+195867-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 195868-1
+Antal platser
+
+179
+
+Gatuadress
+
+Fågelbacksgatan 4
+
+Fastighetsbeteckning
+
+Stallmästaren 3
+
+Skyddsrumsnr
+
+195868-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 195869-7
+Antal platser
+
+60
+
+Gatuadress
+
+Fågelbacksgatan 4
+
+Fastighetsbeteckning
+
+Stallmästaren 3
+
+37 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Stallmästaren 3
+
+Skyddsrumsnr
+
+195869-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 160538-8
+Antal platser
+
+45
+
+Gatuadress
+
+Slottsgatan 8
+
+Fastighetsbeteckning
+
+Biet 31
+
+Skyddsrumsnr
+
+160538-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 199937-7
+Antal platser
+
+155
+
+Gatuadress
+
+Kilian Zollsgatan 33
+
+Fastighetsbeteckning
+
+Krageholm 4
+
+Skyddsrumsnr
+
+199937-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR
+
+Skyddsrum: 105635-8
+Antal platser
+
+57
+
+Gatuadress
+
+Västra Ryttmästaregatan 19
+
+Fastighetsbeteckning
+
+Albo 8
+
+Skyddsrumsnr
+
+105635-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+38 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 105634-2
+Antal platser
+
+57
+
+Gatuadress
+
+Västra Ryttmästargatan 21
+
+Fastighetsbeteckning
+
+Albo 9
+
+Skyddsrumsnr
+
+105634-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 198172-6
+Antal platser
+
+120
+
+Gatuadress
+
+Västergatan 47
+
+Fastighetsbeteckning
+
+Neptun 6
+
+Skyddsrumsnr
+
+198172-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR
+
+Skyddsrum: 106384-7
+Antal platser
+
+36
+
+Gatuadress
+
+Västra Ryttmästaregatan 20
+
+Fastighetsbeteckning
+
+Järrestad 4
+
+Skyddsrumsnr
+
+106384-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+39 av 132
+
+ASKR
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 106386-8
+Antal platser
+
+82
+
+Gatuadress
+
+Västra Stallmästargatan 19
+
+Fastighetsbeteckning
+
+Järrestad 11
+
+Skyddsrumsnr
+
+106386-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107173-2
+Antal platser
+
+108
+
+Gatuadress
+
+Ribersborgsvägen 4
+
+Fastighetsbeteckning
+
+Ribersborg 4
+
+Skyddsrumsnr
+
+107173-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 186447-3
+Antal platser
+
+60
+
+Gatuadress
+
+Repslagaregatan 8 A
+
+Fastighetsbeteckning
+
+Biet 34
+
+Skyddsrumsnr
+
+186447-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 107758-2
+Antal platser
+
+40 av 132
+
+172
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Västra Rönneholmsvägen 62
+
+Fastighetsbeteckning
+
+Valltorp 7
+
+Skyddsrumsnr
+
+107758-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 107813-0
+Antal platser
+
+124
+
+Gatuadress
+
+Västra Rönneholmsvägen 52
+
+Fastighetsbeteckning
+
+Vilhelmstorp 1
+
+Skyddsrumsnr
+
+107813-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160596-4
+Antal platser
+
+160
+
+Gatuadress
+
+Grynbodgatan 18
+
+Fastighetsbeteckning
+
+Slottshagen 9
+
+Skyddsrumsnr
+
+160596-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 170097-3
+Antal platser
+
+60
+
+Gatuadress
+
+Norra Vallgatan 102
+
+Fastighetsbeteckning
+
+Fisken 18
+
+Skyddsrumsnr
+
+170097-3
+
+41 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 196646-7
+Antal platser
+
+149
+
+Gatuadress
+
+Fersens väg 1
+
+Fastighetsbeteckning
+
+Regenten 5
+
+Skyddsrumsnr
+
+196646-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR ombyggnad
+
+Skyddsrum: 106182-9
+Antal platser
+
+60
+
+Gatuadress
+
+Västra Rönneholmsvägen 50
+
+Fastighetsbeteckning
+
+Hermanstorp 5
+
+Skyddsrumsnr
+
+106182-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106383-1
+Antal platser
+
+44
+
+Gatuadress
+
+Västra Ryttmästaregatan 22
+
+Fastighetsbeteckning
+
+Järrestad 3
+
+Skyddsrumsnr
+
+106383-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+42 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+S7
+
+Skyddsrum: 107703-2
+Antal platser
+
+64
+
+Gatuadress
+
+Norra Neptunigatan 13
+
+Fastighetsbeteckning
+
+Triton 6
+
+Skyddsrumsnr
+
+107703-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107759-8
+Antal platser
+
+150
+
+Gatuadress
+
+Västra Rönneholmsvägen 60 B
+
+Fastighetsbeteckning
+
+Tärningholm 8
+
+Skyddsrumsnr
+
+107759-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 180680-4
+Antal platser
+
+120
+
+Gatuadress
+
+Hospitalsgatan 4
+
+Fastighetsbeteckning
+
+Generalens Hage 37
+
+Skyddsrumsnr
+
+180680-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 180682-5
+43 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+120
+
+Gatuadress
+
+Hospitalsgatan 4
+
+Fastighetsbeteckning
+
+Generalens Hage 37
+
+Skyddsrumsnr
+
+180682-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 180683-0
+Antal platser
+
+60
+
+Gatuadress
+
+Hospitalsgatan 4
+
+Fastighetsbeteckning
+
+Generalens Hage 37
+
+Skyddsrumsnr
+
+180683-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 196647-2
+Antal platser
+
+101
+
+Gatuadress
+
+Fersens Väg 1
+
+Fastighetsbeteckning
+
+Regenten 5
+
+Skyddsrumsnr
+
+196647-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR ombyggnad
+
+Skyddsrum: 193611-8
+Antal platser
+
+180
+
+Gatuadress
+
+Fersens väg 1
+
+Fastighetsbeteckning
+
+Regenten 5
+
+44 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+Fastighetsbeteckning
+
+Regenten 5
+
+Skyddsrumsnr
+
+193611-8
+
+Kommunnamn
+
+Malmö
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 105820-3
+Antal platser
+
+149
+
+Gatuadress
+
+Ribersborgsvägen 14A
+
+Fastighetsbeteckning
+
+Brahehus 1
+
+Skyddsrumsnr
+
+105820-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106385-2
+Antal platser
+
+100
+
+Gatuadress
+
+Västra Stallmästargatan 21
+
+Fastighetsbeteckning
+
+Järrestad 12
+
+Skyddsrumsnr
+
+106385-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106183-4
+Antal platser
+
+64
+
+Gatuadress
+
+Västra Rönneholmsvägen 48 C
+
+Fastighetsbeteckning
+
+Hermanstorp 5
+
+Skyddsrumsnr
+
+106183-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+45 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106382-6
+Antal platser
+
+50
+
+Gatuadress
+
+Västra Ryttmästaregatan 24
+
+Fastighetsbeteckning
+
+Järrestad 2
+
+Skyddsrumsnr
+
+106382-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106445-8
+Antal platser
+
+52
+
+Gatuadress
+
+Bernstorpsgatan 5
+
+Fastighetsbeteckning
+
+Katrinetorp 3
+
+Skyddsrumsnr
+
+106445-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107760-3
+Antal platser
+
+154
+
+Gatuadress
+
+Mariedalsvägen 45 b
+
+Fastighetsbeteckning
+
+Tärningholm 10
+
+Skyddsrumsnr
+
+107760-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+46 av 132
+
+ASKR
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 105821-9
+Antal platser
+
+160
+
+Gatuadress
+
+Ribersborgsvägen 14D
+
+Fastighetsbeteckning
+
+Brahehus 1
+
+Skyddsrumsnr
+
+105821-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106381-0
+Antal platser
+
+89
+
+Gatuadress
+
+Major Nilssonsgatan 6
+
+Fastighetsbeteckning
+
+Järrestad 13
+
+Skyddsrumsnr
+
+106381-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107815-1
+Antal platser
+
+116
+
+Gatuadress
+
+Mariedalsvägen 48
+
+Fastighetsbeteckning
+
+Vilhelmstorp 3
+
+Skyddsrumsnr
+
+107815-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107816-7
+Antal platser
+
+47 av 132
+
+100
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Västra Stallmästargatan 22
+
+Fastighetsbeteckning
+
+Villand 12
+
+Skyddsrumsnr
+
+107816-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107821-4
+Antal platser
+
+29
+
+Gatuadress
+
+Västra Kristinelundsvägen 29
+
+Fastighetsbeteckning
+
+Villand 13
+
+Skyddsrumsnr
+
+107821-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 170096-8
+Antal platser
+
+165
+
+Gatuadress
+
+Norra Vallgatan 100
+
+Fastighetsbeteckning
+
+Fisken 18
+
+Skyddsrumsnr
+
+170096-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106348-0
+Antal platser
+
+40
+
+Gatuadress
+
+Regementsgatan 102
+
+Fastighetsbeteckning
+
+Johannelund 1
+
+Skyddsrumsnr
+
+106348-0
+
+48 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106444-2
+Antal platser
+
+41
+
+Gatuadress
+
+Västra Rönneholmsvägen 79
+
+Fastighetsbeteckning
+
+Katrinetorp 3
+
+Skyddsrumsnr
+
+106444-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107814-6
+Antal platser
+
+94
+
+Gatuadress
+
+Törnskärsgatan 7
+
+Fastighetsbeteckning
+
+Vilhelmstorp 2
+
+Skyddsrumsnr
+
+107814-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160534-6
+Antal platser
+
+180
+
+Gatuadress
+
+Långgårdsgatan 1
+
+Fastighetsbeteckning
+
+Västerport 16
+
+Skyddsrumsnr
+
+160534-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+49 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+TB78
+
+Skyddsrum: 199372-6
+Antal platser
+
+117
+
+Gatuadress
+
+Erik Dahlbergsgatan 17
+
+Fastighetsbeteckning
+
+Guvernören 5
+
+Skyddsrumsnr
+
+199372-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR
+
+Skyddsrum: 199373-1
+Antal platser
+
+67
+
+Gatuadress
+
+Erik Dahlbergsgatan 17
+
+Fastighetsbeteckning
+
+Guvernören 5
+
+Skyddsrumsnr
+
+199373-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR
+
+Skyddsrum: 107234-3
+Antal platser
+
+117
+
+Gatuadress
+
+Västra Rönneholmsvägen 43A
+
+Fastighetsbeteckning
+
+Ryttmästaren 16
+
+Skyddsrumsnr
+
+107234-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107235-9
+50 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+244
+
+Gatuadress
+
+Västra Rönneholmsvägen 39-41
+
+Fastighetsbeteckning
+
+Ryttmästaren 17
+
+Skyddsrumsnr
+
+107235-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 107820-9
+Antal platser
+
+24
+
+Gatuadress
+
+Västra Kristinelundsvägen 31
+
+Fastighetsbeteckning
+
+Villand 7
+
+Skyddsrumsnr
+
+107820-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 167211-9
+Antal platser
+
+89
+
+Gatuadress
+
+Beritta Gurrisgatan 1A
+
+Fastighetsbeteckning
+
+Beritta Gurris 12
+
+Skyddsrumsnr
+
+167211-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 176391-8
+Antal platser
+
+240
+
+Gatuadress
+
+Ostindiefararegatan 14/Tegelgårdsgatan 32
+
+Fastighetsbeteckning
+
+Tranan 49
+
+51 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Tranan 49
+
+Skyddsrumsnr
+
+176391-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB74
+
+Skyddsrum: 106185-5
+Antal platser
+
+48
+
+Gatuadress
+
+Örsholmsgången 3
+
+Fastighetsbeteckning
+
+Hermanstorp 8
+
+Skyddsrumsnr
+
+106185-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 105819-8
+Antal platser
+
+240
+
+Gatuadress
+
+Västra Rönneholmsvägen 70
+
+Fastighetsbeteckning
+
+Bornholm 4
+
+Skyddsrumsnr
+
+105819-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 105818-2
+Antal platser
+
+72
+
+Gatuadress
+
+Kramersvägen 2A
+
+Fastighetsbeteckning
+
+Tomtebo 13
+
+Skyddsrumsnr
+
+105818-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+52 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 105953-7
+Antal platser
+
+102
+
+Gatuadress
+
+Edward Lindahls gata 17
+
+Fastighetsbeteckning
+
+Elisefarm 1
+
+Skyddsrumsnr
+
+105953-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106455-2
+Antal platser
+
+64
+
+Gatuadress
+
+Västra Kristinelundsvägen 30
+
+Fastighetsbeteckning
+
+Kil 7
+
+Skyddsrumsnr
+
+106455-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 200225-6
+Antal platser
+
+117
+
+Gatuadress
+
+Västra Ryttmästaregatan 28
+
+Fastighetsbeteckning
+
+Lister 10
+
+Skyddsrumsnr
+
+200225-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+53 av 132
+
+SR
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 106186-0
+Antal platser
+
+49
+
+Gatuadress
+
+Edward Lindahlsgatan 18 B
+
+Fastighetsbeteckning
+
+Hermanstorp 7
+
+Skyddsrumsnr
+
+106186-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106349-6
+Antal platser
+
+52
+
+Gatuadress
+
+Erikslustvägen 2 A
+
+Fastighetsbeteckning
+
+Johannelund 2
+
+Skyddsrumsnr
+
+106349-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107182-1
+Antal platser
+
+104
+
+Gatuadress
+
+Örsholmsgången 6B
+
+Fastighetsbeteckning
+
+Rosenborg 2
+
+Skyddsrumsnr
+
+107182-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 193461-3
+Antal platser
+
+54 av 132
+
+100
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Grynbodgatan 10
+
+Fastighetsbeteckning
+
+Väveriet 33
+
+Skyddsrumsnr
+
+193461-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 198749-2
+Antal platser
+
+160
+
+Gatuadress
+
+Kramersvägen 12
+
+Fastighetsbeteckning
+
+Bornholm 6
+
+Skyddsrumsnr
+
+198749-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 198748-7
+Antal platser
+
+160
+
+Gatuadress
+
+Kramersvägen 4-6
+
+Fastighetsbeteckning
+
+Bornholm 6
+
+Skyddsrumsnr
+
+198748-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 106774-7
+Antal platser
+
+40
+
+Gatuadress
+
+Ryttmästargatan 30D
+
+Fastighetsbeteckning
+
+Lister 1
+
+Skyddsrumsnr
+
+106774-7
+
+55 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 105954-2
+Antal platser
+
+125
+
+Gatuadress
+
+Tuborgsgatan 1A
+
+Fastighetsbeteckning
+
+Elisefarm 2
+
+Skyddsrumsnr
+
+105954-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107181-6
+Antal platser
+
+80
+
+Gatuadress
+
+Mariedalsvägen 50
+
+Fastighetsbeteckning
+
+Rosenborg 1
+
+Skyddsrumsnr
+
+107181-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107817-2
+Antal platser
+
+41
+
+Gatuadress
+
+Västra Stallmästaregatan 24 b
+
+Fastighetsbeteckning
+
+Villand 1
+
+Skyddsrumsnr
+
+107817-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+56 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+S7
+
+Skyddsrum: 107819-3
+Antal platser
+
+76
+
+Gatuadress
+
+Västra Kristinelundsvägen 33 C
+
+Fastighetsbeteckning
+
+Villand 11
+
+Skyddsrumsnr
+
+107819-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106903-7
+Antal platser
+
+110
+
+Gatuadress
+
+Västra Rönneholmsvägen 34A
+
+Fastighetsbeteckning
+
+Maribo 1
+
+Skyddsrumsnr
+
+106903-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 105817-7
+Antal platser
+
+89
+
+Gatuadress
+
+Mariedalsvägen 49C
+
+Fastighetsbeteckning
+
+Tomtebo 13
+
+Skyddsrumsnr
+
+105817-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106013-9
+57 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+61
+
+Gatuadress
+
+Örsholmsgången 2
+
+Fastighetsbeteckning
+
+Fredensborg 4
+
+Skyddsrumsnr
+
+106013-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106012-3
+Antal platser
+
+64
+
+Gatuadress
+
+Örsholmsgången 2
+
+Fastighetsbeteckning
+
+Fredensborg 4
+
+Skyddsrumsnr
+
+106012-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106454-7
+Antal platser
+
+49
+
+Gatuadress
+
+Nordlinds Väg 87
+
+Fastighetsbeteckning
+
+Kil 9
+
+Skyddsrumsnr
+
+106454-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 105808-8
+Antal platser
+
+106
+
+Gatuadress
+
+Västra Rönneholmsvägen 74C
+
+Fastighetsbeteckning
+
+Bornholm 3
+
+58 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Bornholm 3
+
+Skyddsrumsnr
+
+105808-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107818-8
+Antal platser
+
+52
+
+Gatuadress
+
+Västra Kristinelundsvägen 37 A
+
+Fastighetsbeteckning
+
+Villand 10
+
+Skyddsrumsnr
+
+107818-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 160221-4
+Antal platser
+
+69
+
+Gatuadress
+
+Edward Lindahlsgatan 19A
+
+Fastighetsbeteckning
+
+Örsholm 4
+
+Skyddsrumsnr
+
+160221-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106014-4
+Antal platser
+
+60
+
+Gatuadress
+
+Edvard Lindalsgatan 20
+
+Fastighetsbeteckning
+
+Fredensborg 4
+
+Skyddsrumsnr
+
+106014-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+59 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107745-1
+Antal platser
+
+80
+
+Gatuadress
+
+Tuborgsgatan 2
+
+Fastighetsbeteckning
+
+Tuborg 1
+
+Skyddsrumsnr
+
+107745-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107742-5
+Antal platser
+
+124
+
+Gatuadress
+
+Kronborgsvägen 3
+
+Fastighetsbeteckning
+
+Tuborg 3
+
+Skyddsrumsnr
+
+107742-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 180552-8
+Antal platser
+
+90
+
+Gatuadress
+
+Västergatan 16
+
+Fastighetsbeteckning
+
+Gråbröder 2
+
+Skyddsrumsnr
+
+180552-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+60 av 132
+
+TB78
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 105815-6
+Antal platser
+
+96
+
+Gatuadress
+
+Köpenhamnsvägen 9D
+
+Fastighetsbeteckning
+
+Tomtebo 13
+
+Skyddsrumsnr
+
+105815-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 105814-0
+Antal platser
+
+120
+
+Gatuadress
+
+Köpenhamnsvägen 11
+
+Fastighetsbeteckning
+
+Bornholm 8
+
+Skyddsrumsnr
+
+105814-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 105816-1
+Antal platser
+
+81
+
+Gatuadress
+
+Köpenhamnsvägen 9A
+
+Fastighetsbeteckning
+
+Tomtebo 13
+
+Skyddsrumsnr
+
+105816-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 105809-3
+Antal platser
+
+61 av 132
+
+100
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Västra Rönneholmsvägen 76
+
+Fastighetsbeteckning
+
+Bornholm 10
+
+Skyddsrumsnr
+
+105809-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107309-0
+Antal platser
+
+57
+
+Gatuadress
+
+Norra Vallgatan 90
+
+Fastighetsbeteckning
+
+Skepparen 19
+
+Skyddsrumsnr
+
+107309-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107233-8
+Antal platser
+
+80
+
+Gatuadress
+
+Tuborgsgatan 2
+
+Fastighetsbeteckning
+
+Ryttmästaren 16
+
+Skyddsrumsnr
+
+107233-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107183-7
+Antal platser
+
+60
+
+Gatuadress
+
+Köpenhamnsvägen 7D
+
+Fastighetsbeteckning
+
+Rosenborg 3
+
+Skyddsrumsnr
+
+107183-7
+
+62 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107184-2
+Antal platser
+
+32
+
+Gatuadress
+
+Köpenhamnsvägen 7B
+
+Fastighetsbeteckning
+
+Rosenborg 3
+
+Skyddsrumsnr
+
+107184-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106453-1
+Antal platser
+
+49
+
+Gatuadress
+
+Nordlinds väg 89B
+
+Fastighetsbeteckning
+
+Kil 8
+
+Skyddsrumsnr
+
+106453-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 170297-0
+Antal platser
+
+105
+
+Gatuadress
+
+Hyregatan 2B
+
+Fastighetsbeteckning
+
+Diana 29
+
+Skyddsrumsnr
+
+170297-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+63 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+TB78
+
+Skyddsrum: 105813-5
+Antal platser
+
+120
+
+Gatuadress
+
+Köpenhamnsvägen 13
+
+Fastighetsbeteckning
+
+Bornholm 8
+
+Skyddsrumsnr
+
+105813-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106283-8
+Antal platser
+
+89
+
+Gatuadress
+
+Kronborgsvägen 2
+
+Fastighetsbeteckning
+
+Hälsingör 10
+
+Skyddsrumsnr
+
+106283-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 106017-0
+Antal platser
+
+64
+
+Gatuadress
+
+Köpenhamnsvägen 5
+
+Fastighetsbeteckning
+
+Fredensborg 4
+
+Skyddsrumsnr
+
+106017-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106016-5
+64 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+57
+
+Gatuadress
+
+Köpenhamnsvägen 5
+
+Fastighetsbeteckning
+
+Fredensborg 4
+
+Skyddsrumsnr
+
+106016-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 160223-5
+Antal platser
+
+81
+
+Gatuadress
+
+Edward Lindahlsgatan 19D
+
+Fastighetsbeteckning
+
+Örsholm 4
+
+Skyddsrumsnr
+
+160223-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 167212-4
+Antal platser
+
+89
+
+Gatuadress
+
+Beritta Gurrisgatan 3D
+
+Fastighetsbeteckning
+
+Beritta Gurris 12
+
+Skyddsrumsnr
+
+167212-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 105811-4
+Antal platser
+
+56
+
+Gatuadress
+
+Köpenhamnsvägen 15
+
+65 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Bornholm 9
+
+Skyddsrumsnr
+
+105811-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106290-6
+Antal platser
+
+86
+
+Gatuadress
+
+Kronborgsvägen 4
+
+Fastighetsbeteckning
+
+Hälsingör 2
+
+Skyddsrumsnr
+
+106290-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106452-6
+Antal platser
+
+36
+
+Gatuadress
+
+Nordlinds väg 91
+
+Fastighetsbeteckning
+
+Kil 1
+
+Skyddsrumsnr
+
+106452-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 167208-2
+Antal platser
+
+60
+
+Gatuadress
+
+Tegelgårdsgatan 2
+
+Fastighetsbeteckning
+
+Tranan 49
+
+Skyddsrumsnr
+
+167208-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+66 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 197343-2
+Antal platser
+
+150
+
+Gatuadress
+
+Hyregatan 1
+
+Fastighetsbeteckning
+
+Gråbröder 22
+
+Skyddsrumsnr
+
+197343-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 197640-7
+Antal platser
+
+110
+
+Gatuadress
+
+Bassängkajen 8
+
+Fastighetsbeteckning
+
+Amphitrite 1
+
+Skyddsrumsnr
+
+197640-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+2025-04-30 2:00 fm
+
+TillfälligbegränsningTill
+
+2027-11-30 1:00 fm
+
+Teknisk regel
+
+SR ombyggnad
+
+Skyddsrum: 197639-1
+Antal platser
+
+110
+
+Gatuadress
+
+Bassängkajen 8
+
+Fastighetsbeteckning
+
+Amphitrite 1
+
+Skyddsrumsnr
+
+197639-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+2025-04-30 2:00 fm
+
+TillfälligbegränsningTill
+
+2027-11-30 1:00 fm
+
+Teknisk regel
+
+SR ombyggnad
+
+67 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 105810-9
+Antal platser
+
+100
+
+Gatuadress
+
+Köpenhamnsvägen 15 C
+
+Fastighetsbeteckning
+
+Bornholm 9
+
+Skyddsrumsnr
+
+105810-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106285-9
+Antal platser
+
+132
+
+Gatuadress
+
+Kronborgsvägen 8A
+
+Fastighetsbeteckning
+
+Hälsingör 8
+
+Skyddsrumsnr
+
+106285-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160226-1
+Antal platser
+
+109
+
+Gatuadress
+
+Kronborgsvägen 7A
+
+Fastighetsbeteckning
+
+Örsholm 4
+
+Skyddsrumsnr
+
+160226-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 167207-7
+Antal platser
+
+68 av 132
+
+180
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Engelbrektsgatan 9
+
+Fastighetsbeteckning
+
+Tranan 49
+
+Skyddsrumsnr
+
+167207-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 178348-9
+Antal platser
+
+116
+
+Gatuadress
+
+Engelbrektsgatan 15
+
+Fastighetsbeteckning
+
+Tranan 49
+
+Skyddsrumsnr
+
+178348-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 178347-3
+Antal platser
+
+120
+
+Gatuadress
+
+Engelbrektsgatan 15
+
+Fastighetsbeteckning
+
+Tranan 49
+
+Skyddsrumsnr
+
+178347-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106284-3
+Antal platser
+
+160
+
+Gatuadress
+
+Carl Gustavs Väg 19
+
+Fastighetsbeteckning
+
+Hälsingör 10
+
+Skyddsrumsnr
+
+106284-3
+
+69 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 107197-3
+Antal platser
+
+40
+
+Gatuadress
+
+Kronborgsvägen 10 A
+
+Fastighetsbeteckning
+
+Roskilde 2
+
+Skyddsrumsnr
+
+107197-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107196-8
+Antal platser
+
+40
+
+Gatuadress
+
+Kronborgsvägen 10 c
+
+Fastighetsbeteckning
+
+Roskilde 2
+
+Skyddsrumsnr
+
+107196-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 197336-4
+Antal platser
+
+55
+
+Gatuadress
+
+Ingelstadsgatan 13
+
+Fastighetsbeteckning
+
+Torsten 12
+
+Skyddsrumsnr
+
+197336-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+70 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+TB78
+
+Skyddsrum: 106533-6
+Antal platser
+
+45
+
+Gatuadress
+
+Köpenhamnsvägen 10 A
+
+Fastighetsbeteckning
+
+Korsör 3
+
+Skyddsrumsnr
+
+106533-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 160224-0
+Antal platser
+
+74
+
+Gatuadress
+
+Köpenhamnsvägen 3 A
+
+Fastighetsbeteckning
+
+Örsholm 3
+
+Skyddsrumsnr
+
+160224-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160225-6
+Antal platser
+
+66
+
+Gatuadress
+
+Köpenhamnsvägen 1
+
+Fastighetsbeteckning
+
+Örsholm 3
+
+Skyddsrumsnr
+
+160225-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106529-4
+71 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+60
+
+Gatuadress
+
+Köpenhamnsvägen 14 B
+
+Fastighetsbeteckning
+
+Korsör 2
+
+Skyddsrumsnr
+
+106529-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 160610-9
+Antal platser
+
+120
+
+Gatuadress
+
+Köpenhamnsvägen 8
+
+Fastighetsbeteckning
+
+Dammfri 2
+
+Skyddsrumsnr
+
+160610-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 176383-4
+Antal platser
+
+180
+
+Gatuadress
+
+Roskildevägen 1 B
+
+Fastighetsbeteckning
+
+Teatern 3
+
+Skyddsrumsnr
+
+176383-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106526-8
+Antal platser
+
+76
+
+Gatuadress
+
+Köpenhamnsvägen 18 A-B
+
+72 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Korsör 1
+
+Skyddsrumsnr
+
+106526-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106572-9
+Antal platser
+
+76
+
+Gatuadress
+
+Köpenhamnsvägen 6
+
+Fastighetsbeteckning
+
+Kronborg 8
+
+Skyddsrumsnr
+
+106572-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106571-3
+Antal platser
+
+65
+
+Gatuadress
+
+Köpenhamnsvägen 6A
+
+Fastighetsbeteckning
+
+Kronborg 8
+
+Skyddsrumsnr
+
+106571-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106286-4
+Antal platser
+
+176
+
+Gatuadress
+
+Roskildevägen 7
+
+Fastighetsbeteckning
+
+Hälsingör 11
+
+Skyddsrumsnr
+
+106286-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+73 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 106573-4
+Antal platser
+
+140
+
+Gatuadress
+
+Köpenhamnsvägen 4
+
+Fastighetsbeteckning
+
+Kronborg 9
+
+Skyddsrumsnr
+
+106573-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 106575-5
+Antal platser
+
+200
+
+Gatuadress
+
+Köpenhamnsvägen 2/KRONBORGSVÄGEN 11
+
+Fastighetsbeteckning
+
+Kronborg 9
+
+Skyddsrumsnr
+
+106575-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 106524-7
+Antal platser
+
+56
+
+Gatuadress
+
+Köpenhamnsvägen 20 A
+
+Fastighetsbeteckning
+
+Korsör 1
+
+Skyddsrumsnr
+
+106524-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+74 av 132
+
+S7
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 190278-0
+Antal platser
+
+180
+
+Gatuadress
+
+Mäster Johansgatan 13
+
+Fastighetsbeteckning
+
+Liljan 25
+
+Skyddsrumsnr
+
+190278-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106062-6
+Antal platser
+
+80
+
+Gatuadress
+
+Nordlinds Väg 94
+
+Fastighetsbeteckning
+
+Gamban 2
+
+Skyddsrumsnr
+
+106062-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106063-1
+Antal platser
+
+56
+
+Gatuadress
+
+Major Nilssons gata 15
+
+Fastighetsbeteckning
+
+Gamban 2
+
+Skyddsrumsnr
+
+106063-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106528-9
+Antal platser
+
+75 av 132
+
+100
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Gatuadress
+
+Köpenhamnsvägen 16 D
+
+Fastighetsbeteckning
+
+Korsör 2
+
+Skyddsrumsnr
+
+106528-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106534-1
+Antal platser
+
+40
+
+Gatuadress
+
+Korsörvägen 7
+
+Fastighetsbeteckning
+
+Korsör 3
+
+Skyddsrumsnr
+
+106534-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107202-9
+Antal platser
+
+89
+
+Gatuadress
+
+Roskildevägen 13
+
+Fastighetsbeteckning
+
+Roskilde 4
+
+Skyddsrumsnr
+
+107202-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160583-3
+Antal platser
+
+180
+
+Gatuadress
+
+Per Weijersgatan 8
+
+Fastighetsbeteckning
+
+Söderport 11
+
+Skyddsrumsnr
+
+160583-3
+
+76 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106982-8
+Antal platser
+
+94
+
+Gatuadress
+
+Köpenhamnsvägen 22B
+
+Fastighetsbeteckning
+
+Nyborg 18
+
+Skyddsrumsnr
+
+106982-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106980-7
+Antal platser
+
+69
+
+Gatuadress
+
+Köpenhamnsvägen 24C
+
+Fastighetsbeteckning
+
+Nyborg 17
+
+Skyddsrumsnr
+
+106980-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106289-0
+Antal platser
+
+92
+
+Gatuadress
+
+Roskildevägen 11
+
+Fastighetsbeteckning
+
+Hälsingör 6
+
+Skyddsrumsnr
+
+106289-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+77 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+S7
+
+Skyddsrum: 106288-5
+Antal platser
+
+176
+
+Gatuadress
+
+Roskildevägen 9
+
+Fastighetsbeteckning
+
+Hälsingör 9
+
+Skyddsrumsnr
+
+106288-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 106531-5
+Antal platser
+
+49
+
+Gatuadress
+
+Korsörvägen 11 B
+
+Fastighetsbeteckning
+
+Korsör 2
+
+Skyddsrumsnr
+
+106531-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 160510-5
+Antal platser
+
+90
+
+Gatuadress
+
+Per Weijersgatan 8
+
+Fastighetsbeteckning
+
+Söderport 11
+
+Skyddsrumsnr
+
+160510-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106983-3
+78 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+54
+
+Gatuadress
+
+Pilåkersvägen 3
+
+Fastighetsbeteckning
+
+Nyborg 19
+
+Skyddsrumsnr
+
+106983-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106580-2
+Antal platser
+
+160
+
+Gatuadress
+
+Själlandstorget 1
+
+Fastighetsbeteckning
+
+Odense 4
+
+Skyddsrumsnr
+
+106580-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106576-0
+Antal platser
+
+140
+
+Gatuadress
+
+Mariedalsvägen 56
+
+Fastighetsbeteckning
+
+Kronborg 7
+
+Skyddsrumsnr
+
+106576-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106532-0
+Antal platser
+
+88
+
+Gatuadress
+
+Köpenhamnsvägen 12 E
+
+79 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Korsör 3
+
+Skyddsrumsnr
+
+106532-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 182395-0
+Antal platser
+
+180
+
+Gatuadress
+
+Gustav Adolfs torg 12
+
+Fastighetsbeteckning
+
+Magnus Stenbock 2
+
+Skyddsrumsnr
+
+182395-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 191764-5
+Antal platser
+
+180
+
+Gatuadress
+
+Nordenskiöldsgatn 2B
+
+Fastighetsbeteckning
+
+Väktaren 3
+
+Skyddsrumsnr
+
+191764-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 191762-4
+Antal platser
+
+180
+
+Gatuadress
+
+Hjälmaregatan 3
+
+Fastighetsbeteckning
+
+Väktaren 3
+
+Skyddsrumsnr
+
+191762-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+80 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 220335-8
+Antal platser
+
+120
+
+Gatuadress
+
+Storgatan 43
+
+Fastighetsbeteckning
+
+Kamelen 14
+
+Skyddsrumsnr
+
+220335-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR
+
+Skyddsrum: 106525-2
+Antal platser
+
+65
+
+Gatuadress
+
+Köpenhamnsvägen 20 A
+
+Fastighetsbeteckning
+
+Korsör 1
+
+Skyddsrumsnr
+
+106525-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106577-6
+Antal platser
+
+64
+
+Gatuadress
+
+Kronborgsvägen 13
+
+Fastighetsbeteckning
+
+Kronborg 7
+
+Skyddsrumsnr
+
+106577-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+81 av 132
+
+S7
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 106527-3
+Antal platser
+
+56
+
+Gatuadress
+
+Korsörvägen 15
+
+Fastighetsbeteckning
+
+Korsör 1
+
+Skyddsrumsnr
+
+106527-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107739-9
+Antal platser
+
+64
+
+Gatuadress
+
+Nordlinds väg 96A
+
+Fastighetsbeteckning
+
+Tuban 1
+
+Skyddsrumsnr
+
+107739-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 180612-3
+Antal platser
+
+120
+
+Gatuadress
+
+Adolf Fredriksgatan 2 B
+
+Fastighetsbeteckning
+
+Beritta Gurris 15
+
+Skyddsrumsnr
+
+180612-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 178277-3
+Antal platser
+
+82 av 132
+
+90
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+Gatuadress
+
+Per Weijersgatan 6
+
+Fastighetsbeteckning
+
+Söderport 17
+
+Skyddsrumsnr
+
+178277-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106978-6
+Antal platser
+
+94
+
+Gatuadress
+
+Köpenhamnsvägen 26 B
+
+Fastighetsbeteckning
+
+Nyborg 16
+
+Skyddsrumsnr
+
+106978-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106354-3
+Antal platser
+
+32
+
+Gatuadress
+
+Korsörvägen 10
+
+Fastighetsbeteckning
+
+Jylland 5
+
+Skyddsrumsnr
+
+106354-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106355-9
+Antal platser
+
+42
+
+Gatuadress
+
+Korsörvägen 8
+
+Fastighetsbeteckning
+
+Jylland 6
+
+Skyddsrumsnr
+
+106355-9
+
+83 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106581-8
+Antal platser
+
+144
+
+Gatuadress
+
+Själlandstorget 1
+
+Fastighetsbeteckning
+
+Odense 4
+
+Skyddsrumsnr
+
+106581-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107154-9
+Antal platser
+
+36
+
+Gatuadress
+
+Korsörvägen 4
+
+Fastighetsbeteckning
+
+Randers 2
+
+Skyddsrumsnr
+
+107154-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 160561-3
+Antal platser
+
+120
+
+Gatuadress
+
+Rönngatan 4
+
+Fastighetsbeteckning
+
+Holmen 1
+
+Skyddsrumsnr
+
+160561-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+84 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+TB78
+
+Skyddsrum: 180549-1
+Antal platser
+
+30
+
+Gatuadress
+
+Stortorget 13 B
+
+Fastighetsbeteckning
+
+Frans Suell 16
+
+Skyddsrumsnr
+
+180549-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 178276-8
+Antal platser
+
+150
+
+Gatuadress
+
+Per Weijersgatan 6
+
+Fastighetsbeteckning
+
+Söderport 17
+
+Skyddsrumsnr
+
+178276-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106977-0
+Antal platser
+
+69
+
+Gatuadress
+
+Köpenhamnsvägen 28 C
+
+Fastighetsbeteckning
+
+Nyborg 15
+
+Skyddsrumsnr
+
+106977-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106353-8
+85 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+40
+
+Gatuadress
+
+Korsörvägen 12
+
+Fastighetsbeteckning
+
+Jylland 4
+
+Skyddsrumsnr
+
+106353-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107738-3
+Antal platser
+
+48
+
+Gatuadress
+
+Nordlinds väg 98A
+
+Fastighetsbeteckning
+
+Tuban 1
+
+Skyddsrumsnr
+
+107738-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160560-8
+Antal platser
+
+120
+
+Gatuadress
+
+Rönngatan 6
+
+Fastighetsbeteckning
+
+Holmen 1
+
+Skyddsrumsnr
+
+160560-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106981-2
+Antal platser
+
+62
+
+Gatuadress
+
+Korsörvägen 21
+
+86 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Nyborg 20
+
+Skyddsrumsnr
+
+106981-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106979-1
+Antal platser
+
+69
+
+Gatuadress
+
+Korsörvägen 23
+
+Fastighetsbeteckning
+
+Nyborg 21
+
+Skyddsrumsnr
+
+106979-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106578-1
+Antal platser
+
+64
+
+Gatuadress
+
+Kronborgsvägen 15
+
+Fastighetsbeteckning
+
+Kronborg 7
+
+Skyddsrumsnr
+
+106578-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106351-7
+Antal platser
+
+44
+
+Gatuadress
+
+Korsörvägen 16
+
+Fastighetsbeteckning
+
+Jylland 10
+
+Skyddsrumsnr
+
+106351-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+87 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107727-3
+Antal platser
+
+68
+
+Gatuadress
+
+Köpenhamnsvägen 41c
+
+Fastighetsbeteckning
+
+Trumman 1
+
+Skyddsrumsnr
+
+107727-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107728-9
+Antal platser
+
+144
+
+Gatuadress
+
+Köpenhamnsvägen 41a
+
+Fastighetsbeteckning
+
+Trumman 1
+
+Skyddsrumsnr
+
+107728-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 197784-0
+Antal platser
+
+74
+
+Gatuadress
+
+Jörgen Ankersgatan 3A
+
+Fastighetsbeteckning
+
+Haren 16
+
+Skyddsrumsnr
+
+197784-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+88 av 132
+
+TB74
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 106352-2
+Antal platser
+
+40
+
+Gatuadress
+
+Korsörvägen 14B
+
+Fastighetsbeteckning
+
+Jylland 3
+
+Skyddsrumsnr
+
+106352-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 175439-5
+Antal platser
+
+180
+
+Gatuadress
+
+Nordenskiöldsgatan 6
+
+Fastighetsbeteckning
+
+Scylla 2
+
+Skyddsrumsnr
+
+175439-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB74
+
+Skyddsrum: 107012-6
+Antal platser
+
+129
+
+Gatuadress
+
+Kronborgsvägen 18 A
+
+Fastighetsbeteckning
+
+Odense 1
+
+Skyddsrumsnr
+
+107012-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107018-9
+Antal platser
+
+89 av 132
+
+14
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+Gatuadress
+
+Kronborgsvägen 18
+
+Fastighetsbeteckning
+
+Odense 1
+
+Skyddsrumsnr
+
+107018-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106984-9
+Antal platser
+
+107
+
+Gatuadress
+
+Hillerödsvägen 4
+
+Fastighetsbeteckning
+
+Nyborg 22
+
+Skyddsrumsnr
+
+106984-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 105717-3
+Antal platser
+
+84
+
+Gatuadress
+
+Nordlinds väg 100
+
+Fastighetsbeteckning
+
+Basunen 2
+
+Skyddsrumsnr
+
+105717-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106579-7
+Antal platser
+
+64
+
+Gatuadress
+
+Kronborgsvägen 17
+
+Fastighetsbeteckning
+
+Kronborg 7
+
+Skyddsrumsnr
+
+106579-7
+
+90 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107158-0
+Antal platser
+
+100
+
+Gatuadress
+
+Mariedalsvägen 55
+
+Fastighetsbeteckning
+
+Randers 2
+
+Skyddsrumsnr
+
+107158-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107157-5
+Antal platser
+
+34
+
+Gatuadress
+
+Randersvägen 21
+
+Fastighetsbeteckning
+
+Randers 2
+
+Skyddsrumsnr
+
+107157-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107155-4
+Antal platser
+
+76
+
+Gatuadress
+
+Dammfrigången 4
+
+Fastighetsbeteckning
+
+Randers 1
+
+Skyddsrumsnr
+
+107155-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+91 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+S7
+
+Skyddsrum: 106350-1
+Antal platser
+
+69
+
+Gatuadress
+
+Pilåkersvägen 4
+
+Fastighetsbeteckning
+
+Jylland 10
+
+Skyddsrumsnr
+
+106350-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107896-3
+Antal platser
+
+56
+
+Gatuadress
+
+Korsörvägen 22B
+
+Fastighetsbeteckning
+
+Ängdala 1
+
+Skyddsrumsnr
+
+107896-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107726-8
+Antal platser
+
+120
+
+Gatuadress
+
+Köpenhamsnvägen 43 A
+
+Fastighetsbeteckning
+
+Trumman 1
+
+Skyddsrumsnr
+
+107726-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+Skyddsrum: 107725-2
+
+92 av 132
+
+S7
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+72
+
+Gatuadress
+
+Köpenhamnsvägen 43c
+
+Fastighetsbeteckning
+
+Trumman 1
+
+Skyddsrumsnr
+
+107725-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 160486-6
+Antal platser
+
+215
+
+Gatuadress
+
+Skomakaregatan 5
+
+Fastighetsbeteckning
+
+Oscar 28
+
+Skyddsrumsnr
+
+160486-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB74
+
+Skyddsrum: 160559-2
+Antal platser
+
+177
+
+Gatuadress
+
+Jörgen Ankersgatan 7
+
+Fastighetsbeteckning
+
+Holmen 1
+
+Skyddsrumsnr
+
+160559-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 199451-5
+Antal platser
+
+96
+
+Gatuadress
+
+Gustav Adolfs torg 1
+
+93 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Innerstaden 1:14
+
+Skyddsrumsnr
+
+199451-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR
+
+Skyddsrum: 107808-3
+Antal platser
+
+48
+
+Gatuadress
+
+Köpenhamnsvägen 32
+
+Fastighetsbeteckning
+
+Viborg 1
+
+Skyddsrumsnr
+
+107808-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107900-3
+Antal platser
+
+66
+
+Gatuadress
+
+Pilåkersvägen 5B
+
+Fastighetsbeteckning
+
+Ängdala 1
+
+Skyddsrumsnr
+
+107900-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 195453-5
+Antal platser
+
+120
+
+Gatuadress
+
+Davidshallsgatan 15
+
+Fastighetsbeteckning
+
+Rådjuret 2
+
+Skyddsrumsnr
+
+195453-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+94 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 106985-4
+Antal platser
+
+107
+
+Gatuadress
+
+Hillerödsvägen 6
+
+Fastighetsbeteckning
+
+Nyborg 22
+
+Skyddsrumsnr
+
+106985-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+NSKR
+
+Skyddsrum: 195454-0
+Antal platser
+
+90
+
+Gatuadress
+
+Davidshallsgatan 15
+
+Fastighetsbeteckning
+
+Rådjuret 2
+
+Skyddsrumsnr
+
+195454-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 196699-6
+Antal platser
+
+100
+
+Gatuadress
+
+Davidshallsgatan 19
+
+Fastighetsbeteckning
+
+Rådjuret 6
+
+Skyddsrumsnr
+
+196699-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+95 av 132
+
+TB78 i bef byggnad
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 106361-1
+Antal platser
+
+160
+
+Gatuadress
+
+Dammfrigången 9
+
+Fastighetsbeteckning
+
+Jylland 7
+
+Skyddsrumsnr
+
+106361-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106360-6
+Antal platser
+
+148
+
+Gatuadress
+
+Dammfrigången 9
+
+Fastighetsbeteckning
+
+Jylland 7
+
+Skyddsrumsnr
+
+106360-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107807-8
+Antal platser
+
+48
+
+Gatuadress
+
+Köpenhamnsvägen 34
+
+Fastighetsbeteckning
+
+Viborg 1
+
+Skyddsrumsnr
+
+107807-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107724-7
+Antal platser
+
+96 av 132
+
+116
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+Gatuadress
+
+Köpenhamnsvägen 45a
+
+Fastighetsbeteckning
+
+Trumman 1
+
+Skyddsrumsnr
+
+107724-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107723-1
+Antal platser
+
+74
+
+Gatuadress
+
+Köpenhamnsvägen 45c
+
+Fastighetsbeteckning
+
+Trumman 1
+
+Skyddsrumsnr
+
+107723-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 194115-4
+Antal platser
+
+60
+
+Gatuadress
+
+Beritta Gurrisgatan 13
+
+Fastighetsbeteckning
+
+Ravenna 3
+
+Skyddsrumsnr
+
+194115-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 196698-0
+Antal platser
+
+120
+
+Gatuadress
+
+Davidshallsgatan 19
+
+Fastighetsbeteckning
+
+Rådjuret 6
+
+Skyddsrumsnr
+
+196698-0
+
+97 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 105759-2
+Antal platser
+
+132
+
+Gatuadress
+
+Davidshallsgatan 16
+
+Fastighetsbeteckning
+
+Björnen 23
+
+Skyddsrumsnr
+
+105759-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106989-6
+Antal platser
+
+36
+
+Gatuadress
+
+Ängdalavägen 33
+
+Fastighetsbeteckning
+
+Nyborg 23
+
+Skyddsrumsnr
+
+106989-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106988-0
+Antal platser
+
+36
+
+Gatuadress
+
+Ängdalavägen 35
+
+Fastighetsbeteckning
+
+Nyborg 23
+
+Skyddsrumsnr
+
+106988-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+98 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+ASKR
+
+Skyddsrum: 106358-5
+Antal platser
+
+134
+
+Gatuadress
+
+Dammfrigången 9
+
+Fastighetsbeteckning
+
+Jylland 7
+
+Skyddsrumsnr
+
+106358-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106359-0
+Antal platser
+
+128
+
+Gatuadress
+
+Dammfrigången 9
+
+Fastighetsbeteckning
+
+Jylland 7
+
+Skyddsrumsnr
+
+106359-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107133-4
+Antal platser
+
+105
+
+Gatuadress
+
+Köpenhamnsvägen 40 A
+
+Fastighetsbeteckning
+
+Pukan 1
+
+Skyddsrumsnr
+
+107133-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+Skyddsrum: 107805-7
+
+99 av 132
+
+ASKR
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+48
+
+Gatuadress
+
+Bellevuevägen 2
+
+Fastighetsbeteckning
+
+Viborg 1
+
+Skyddsrumsnr
+
+107805-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107898-4
+Antal platser
+
+32
+
+Gatuadress
+
+Ängdalavägen 29
+
+Fastighetsbeteckning
+
+Ängdala 3
+
+Skyddsrumsnr
+
+107898-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107897-9
+Antal platser
+
+32
+
+Gatuadress
+
+Ängdalavägen 31
+
+Fastighetsbeteckning
+
+Ängdala 3
+
+Skyddsrumsnr
+
+107897-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 160248-1
+Antal platser
+
+139
+
+Gatuadress
+
+Stora Varvsgatan 11
+
+100 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Gängtappen 1
+
+Skyddsrumsnr
+
+160248-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 197618-7
+Antal platser
+
+60
+
+Gatuadress
+
+Nordlinds väg 102
+
+Fastighetsbeteckning
+
+Basunen 3
+
+Skyddsrumsnr
+
+197618-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 199926-7
+Antal platser
+
+134
+
+Gatuadress
+
+Storgatan 22
+
+Fastighetsbeteckning
+
+Elgen 14
+
+Skyddsrumsnr
+
+199926-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR
+
+Skyddsrum: 107013-1
+Antal platser
+
+112
+
+Gatuadress
+
+Roskildevägen 25 B
+
+Fastighetsbeteckning
+
+Odense 1
+
+Skyddsrumsnr
+
+107013-1
+
+Kommunnamn
+
+Malmö
+
+101 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106987-5
+Antal platser
+
+36
+
+Gatuadress
+
+Ängdalavägen 37
+
+Fastighetsbeteckning
+
+Nyborg 23
+
+Skyddsrumsnr
+
+106987-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107169-0
+Antal platser
+
+49
+
+Gatuadress
+
+Randersvägen 24 B
+
+Fastighetsbeteckning
+
+Ribe 6
+
+Skyddsrumsnr
+
+107169-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107170-6
+Antal platser
+
+84
+
+Gatuadress
+
+Mariedalsvägen 57 A
+
+Fastighetsbeteckning
+
+Ribe 6
+
+Skyddsrumsnr
+
+107170-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+102 av 132
+
+S7
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 107011-0
+Antal platser
+
+109
+
+Gatuadress
+
+Kronborgsvägen 20 A
+
+Fastighetsbeteckning
+
+Odense 1
+
+Skyddsrumsnr
+
+107011-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106356-4
+Antal platser
+
+66
+
+Gatuadress
+
+Ribevägen 19B/Pilåkersvägen 6
+
+Fastighetsbeteckning
+
+Jylland 9
+
+Skyddsrumsnr
+
+106356-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107722-6
+Antal platser
+
+117
+
+Gatuadress
+
+Köpenhamnsvägen 47 A
+
+Fastighetsbeteckning
+
+Trumman 1
+
+Skyddsrumsnr
+
+107722-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107721-0
+Antal platser
+
+103 av 132
+
+81
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+Gatuadress
+
+Köpenhamnsvägen 47 C
+
+Fastighetsbeteckning
+
+Trumman 1
+
+Skyddsrumsnr
+
+107721-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107131-3
+Antal platser
+
+108
+
+Gatuadress
+
+Köpenhamnsvägen 42 A
+
+Fastighetsbeteckning
+
+Pukan 1
+
+Skyddsrumsnr
+
+107131-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107014-7
+Antal platser
+
+124
+
+Gatuadress
+
+Roskildevägen 27 A
+
+Fastighetsbeteckning
+
+Odense 1
+
+Skyddsrumsnr
+
+107014-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106217-8
+Antal platser
+
+46
+
+Gatuadress
+
+Ängdalavägen 26
+
+Fastighetsbeteckning
+
+Hilleröd 2
+
+Skyddsrumsnr
+
+106217-8
+
+104 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106216-2
+Antal platser
+
+46
+
+Gatuadress
+
+Ängdalavägen 28
+
+Fastighetsbeteckning
+
+Hilleröd 1
+
+Skyddsrumsnr
+
+106216-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106215-7
+Antal platser
+
+32
+
+Gatuadress
+
+Ängdalavägen 30
+
+Fastighetsbeteckning
+
+Hilleröd 11
+
+Skyddsrumsnr
+
+106215-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106213-6
+Antal platser
+
+49
+
+Gatuadress
+
+Ängdalavägen 34
+
+Fastighetsbeteckning
+
+Hilleröd 12
+
+Skyddsrumsnr
+
+106213-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+105 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+ASKR
+
+Skyddsrum: 106214-1
+Antal platser
+
+36
+
+Gatuadress
+
+Ängdalavägen 32
+
+Fastighetsbeteckning
+
+Hilleröd 12
+
+Skyddsrumsnr
+
+106214-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 191088-0
+Antal platser
+
+60
+
+Gatuadress
+
+Södra Förstadsgatan 4
+
+Fastighetsbeteckning
+
+Del�nen 17
+
+Skyddsrumsnr
+
+191088-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 193609-7
+Antal platser
+
+81
+
+Gatuadress
+
+Södra Förstadsgatan 4
+
+Fastighetsbeteckning
+
+Del�nen 17
+
+Skyddsrumsnr
+
+193609-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+Skyddsrum: 107015-2
+
+106 av 132
+
+TB78 i bef byggnad
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+112
+
+Gatuadress
+
+Roskildevägen 29 A
+
+Fastighetsbeteckning
+
+Odense 1
+
+Skyddsrumsnr
+
+107015-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107135-5
+Antal platser
+
+92
+
+Gatuadress
+
+Köpenhamnsvägen 40 C
+
+Fastighetsbeteckning
+
+Pukan 1
+
+Skyddsrumsnr
+
+107135-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107806-2
+Antal platser
+
+48
+
+Gatuadress
+
+Hillerödsvägen 5
+
+Fastighetsbeteckning
+
+Viborg 1
+
+Skyddsrumsnr
+
+107806-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 180571-1
+Antal platser
+
+100
+
+Gatuadress
+
+Södra Förstadsgatan 21
+
+107 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Björnen 4
+
+Skyddsrumsnr
+
+180571-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 192360-1
+Antal platser
+
+120
+
+Gatuadress
+
+Marietorps allé 28 G
+
+Fastighetsbeteckning
+
+Hellas 41
+
+Skyddsrumsnr
+
+192360-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 107010-5
+Antal platser
+
+44
+
+Gatuadress
+
+Mariedalsvägen 60
+
+Fastighetsbeteckning
+
+Odense 1
+
+Skyddsrumsnr
+
+107010-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107129-2
+Antal platser
+
+124
+
+Gatuadress
+
+Köpenhamnsvägen 44 A
+
+Fastighetsbeteckning
+
+Pukan 1
+
+Skyddsrumsnr
+
+107129-2
+
+Kommunnamn
+
+Malmö
+
+108 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107172-7
+Antal platser
+
+40
+
+Gatuadress
+
+Mariedalsvägen 57 A
+
+Fastighetsbeteckning
+
+Ribe 6
+
+Skyddsrumsnr
+
+107172-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107718-4
+Antal platser
+
+89
+
+Gatuadress
+
+Köpenhamnsvägen 49c
+
+Fastighetsbeteckning
+
+Trumman 1
+
+Skyddsrumsnr
+
+107718-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107804-1
+Antal platser
+
+48
+
+Gatuadress
+
+Bellevuevägen 4
+
+Fastighetsbeteckning
+
+Viborg 1
+
+Skyddsrumsnr
+
+107804-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+109 av 132
+
+S7
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 107720-5
+Antal platser
+
+116
+
+Gatuadress
+
+Köpenhamnsvägen 49a
+
+Fastighetsbeteckning
+
+Trumman 1
+
+Skyddsrumsnr
+
+107720-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 180696-1
+Antal platser
+
+180
+
+Gatuadress
+
+Södra Förstadsgatan 20
+
+Fastighetsbeteckning
+
+Elefanten 23
+
+Skyddsrumsnr
+
+180696-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 180641-1
+Antal platser
+
+180
+
+Gatuadress
+
+Storgatan 20
+
+Fastighetsbeteckning
+
+Elefanten 40
+
+Skyddsrumsnr
+
+180641-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 107132-9
+Antal platser
+
+110 av 132
+
+98
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+Gatuadress
+
+Köpenhamnsvägen 42 C
+
+Fastighetsbeteckning
+
+Pukan 1
+
+Skyddsrumsnr
+
+107132-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107171-1
+Antal platser
+
+69
+
+Gatuadress
+
+Ribevägen 13 A
+
+Fastighetsbeteckning
+
+Ribe 1
+
+Skyddsrumsnr
+
+107171-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 180642-7
+Antal platser
+
+180
+
+Gatuadress
+
+Storgatan 20
+
+Fastighetsbeteckning
+
+Elefanten 40
+
+Skyddsrumsnr
+
+180642-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 199465-1
+Antal platser
+
+180
+
+Gatuadress
+
+Davidshallsgatan 26
+
+Fastighetsbeteckning
+
+Björnen 38
+
+Skyddsrumsnr
+
+199465-1
+
+111 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Kommunnamn
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+SR
+
+Skyddsrum: 106220-4
+Antal platser
+
+146
+
+Gatuadress
+
+John Ericssons Väg 75 D
+
+Fastighetsbeteckning
+
+Hilleröd 5
+
+Skyddsrumsnr
+
+106220-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106219-9
+Antal platser
+
+45
+
+Gatuadress
+
+Hillerödsvägen 12 b
+
+Fastighetsbeteckning
+
+Hilleröd 6
+
+Skyddsrumsnr
+
+106219-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106218-3
+Antal platser
+
+45
+
+Gatuadress
+
+Hillerödsvägen 12 b
+
+Fastighetsbeteckning
+
+Hilleröd 6
+
+Skyddsrumsnr
+
+106218-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+112 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+ASKR
+
+Skyddsrum: 106226-7
+Antal platser
+
+100
+
+Gatuadress
+
+Pilåkersvägen 9 C
+
+Fastighetsbeteckning
+
+Hilleröd 3
+
+Skyddsrumsnr
+
+106226-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106746-4
+Antal platser
+
+105
+
+Gatuadress
+
+Ribevägen 20 B
+
+Fastighetsbeteckning
+
+Langeland 1
+
+Skyddsrumsnr
+
+106746-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106225-1
+Antal platser
+
+29
+
+Gatuadress
+
+John Erikssons Väg 73 D
+
+Fastighetsbeteckning
+
+Hilleröd 3
+
+Skyddsrumsnr
+
+106225-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+Skyddsrum: 107127-1
+
+113 av 132
+
+ASKR
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+112
+
+Gatuadress
+
+Köpenhamnsvägen 46 A
+
+Fastighetsbeteckning
+
+Pukan 1
+
+Skyddsrumsnr
+
+107127-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 167242-8
+Antal platser
+
+176
+
+Gatuadress
+
+Klostergatan 5
+
+Fastighetsbeteckning
+
+Klostret 7
+
+Skyddsrumsnr
+
+167242-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 176358-8
+Antal platser
+
+50
+
+Gatuadress
+
+Adelgatan 11
+
+Fastighetsbeteckning
+
+Sqvalperup 12
+
+Skyddsrumsnr
+
+176358-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB74
+
+Skyddsrum: 106744-3
+Antal platser
+
+56
+
+Gatuadress
+
+Ribevägen 16C
+
+114 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Langeland 2
+
+Skyddsrumsnr
+
+106744-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107301-7
+Antal platser
+
+68
+
+Gatuadress
+
+Ribevägen 2
+
+Fastighetsbeteckning
+
+Själland 1
+
+Skyddsrumsnr
+
+107301-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106041-1
+Antal platser
+
+60
+
+Gatuadress
+
+Ribevägen 8
+
+Fastighetsbeteckning
+
+Fyen 3
+
+Skyddsrumsnr
+
+106041-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107130-8
+Antal platser
+
+86
+
+Gatuadress
+
+Köpenhamnsvägen 44 C
+
+Fastighetsbeteckning
+
+Pukan 1
+
+Skyddsrumsnr
+
+107130-8
+
+Kommunnamn
+
+Malmö
+
+115 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107729-4
+Antal platser
+
+112
+
+Gatuadress
+
+Bellevuevägen 3 B-c
+
+Fastighetsbeteckning
+
+Trumpeten 2
+
+Skyddsrumsnr
+
+107729-4
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160394-6
+Antal platser
+
+90
+
+Gatuadress
+
+Västra Kanalgatan 4-6
+
+Fastighetsbeteckning
+
+Sparven 15
+
+Skyddsrumsnr
+
+160394-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 170110-2
+Antal platser
+
+120
+
+Gatuadress
+
+Stora Nygatan 54
+
+Fastighetsbeteckning
+
+Stadt Hamburg 14
+
+Skyddsrumsnr
+
+170110-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+116 av 132
+
+TB78
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 170109-7
+Antal platser
+
+180
+
+Gatuadress
+
+Stora Nygatan 54
+
+Fastighetsbeteckning
+
+Stadt Hamburg 14
+
+Skyddsrumsnr
+
+170109-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106042-7
+Antal platser
+
+72
+
+Gatuadress
+
+Ribevägen 10
+
+Fastighetsbeteckning
+
+Fyen 3
+
+Skyddsrumsnr
+
+106042-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106228-8
+Antal platser
+
+57
+
+Gatuadress
+
+Pilåkersvägen 11 C
+
+Fastighetsbeteckning
+
+Hilleröd 3
+
+Skyddsrumsnr
+
+106228-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 170111-8
+Antal platser
+
+117 av 132
+
+120
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+120
+
+Gatuadress
+
+Stora Nygatan 54
+
+Fastighetsbeteckning
+
+Stadt Hamburg 14
+
+Skyddsrumsnr
+
+170111-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 180643-2
+Antal platser
+
+180
+
+Gatuadress
+
+Storgatan 18
+
+Fastighetsbeteckning
+
+Elefanten 40
+
+Skyddsrumsnr
+
+180643-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 186444-7
+Antal platser
+
+176
+
+Gatuadress
+
+Lugna Gatan 38
+
+Fastighetsbeteckning
+
+Elefanten 41
+
+Skyddsrumsnr
+
+186444-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 190275-4
+Antal platser
+
+180
+
+Gatuadress
+
+Kasinogatan 5
+
+Fastighetsbeteckning
+
+Visenten 21
+
+Skyddsrumsnr
+
+190275-4
+
+118 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrumsnr
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 107300-1
+Antal platser
+
+64
+
+Gatuadress
+
+Mariedalsvägen 62B
+
+Fastighetsbeteckning
+
+Själland 1
+
+Skyddsrumsnr
+
+107300-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106043-2
+Antal platser
+
+72
+
+Gatuadress
+
+Ribevägen 10
+
+Fastighetsbeteckning
+
+Fyen 3
+
+Skyddsrumsnr
+
+106043-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106224-6
+Antal platser
+
+29
+
+Gatuadress
+
+John Ericssons Väg 73 A
+
+Fastighetsbeteckning
+
+Hilleröd 3
+
+Skyddsrumsnr
+
+106224-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+
+119 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+ASKR
+
+Skyddsrum: 107302-2
+Antal platser
+
+68
+
+Gatuadress
+
+Roskildevägen 33B
+
+Fastighetsbeteckning
+
+Själland 1
+
+Skyddsrumsnr
+
+107302-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107303-8
+Antal platser
+
+64
+
+Gatuadress
+
+Roskildevägen 33
+
+Fastighetsbeteckning
+
+Själland 1
+
+Skyddsrumsnr
+
+107303-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107128-7
+Antal platser
+
+84
+
+Gatuadress
+
+Köpenhamnsvägen 46 C
+
+Fastighetsbeteckning
+
+Pukan 1
+
+Skyddsrumsnr
+
+107128-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+Skyddsrum: 107125-0
+
+120 av 132
+
+ASKR
+
+2025-12-02 06:59
+
+Skyddsrum: 107125-0
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+113
+
+Gatuadress
+
+Köpenhamnsvägen 48 A
+
+Fastighetsbeteckning
+
+Pukan 1
+
+Skyddsrumsnr
+
+107125-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107399-1
+Antal platser
+
+48
+
+Gatuadress
+
+Bellevuevägen 6C
+
+Fastighetsbeteckning
+
+Spetsen 1
+
+Skyddsrumsnr
+
+107399-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106743-8
+Antal platser
+
+105
+
+Gatuadress
+
+Ribevägen 14A
+
+Fastighetsbeteckning
+
+Langeland 2
+
+Skyddsrumsnr
+
+106743-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106750-6
+Antal platser
+
+105
+
+Gatuadress
+
+Ribevägen 22 D
+
+121 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Langeland 1
+
+Skyddsrumsnr
+
+106750-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106113-2
+Antal platser
+
+36
+
+Gatuadress
+
+Malmborgsgatan 7
+
+Fastighetsbeteckning
+
+Gustav Adolf 14
+
+Skyddsrumsnr
+
+106113-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106227-2
+Antal platser
+
+100
+
+Gatuadress
+
+John Ericssons Väg 71 B
+
+Fastighetsbeteckning
+
+Hilleröd 3
+
+Skyddsrumsnr
+
+106227-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 106223-0
+Antal platser
+
+138
+
+Gatuadress
+
+John Ericssons Väg 77 C
+
+Fastighetsbeteckning
+
+Hilleröd 5
+
+Skyddsrumsnr
+
+106223-0
+
+Kommunnamn
+
+Malmö
+
+122 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160475-6
+Antal platser
+
+180
+
+Gatuadress
+
+Storgatan 12
+
+Fastighetsbeteckning
+
+Katten 17
+
+Skyddsrumsnr
+
+160475-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB74
+
+Skyddsrum: 170196-1
+Antal platser
+
+180
+
+Gatuadress
+
+Kalendegatan 13
+
+Fastighetsbeteckning
+
+Claus Mortensen 38
+
+Skyddsrumsnr
+
+170196-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 178330-0
+Antal platser
+
+120
+
+Gatuadress
+
+Kansligatan 2
+
+Fastighetsbeteckning
+
+Hans Michelsen 5
+
+Skyddsrumsnr
+
+178330-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+123 av 132
+
+TB78
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 106749-0
+Antal platser
+
+105
+
+Gatuadress
+
+John Ericssons Väg 65A
+
+Fastighetsbeteckning
+
+Langeland 1
+
+Skyddsrumsnr
+
+106749-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106222-5
+Antal platser
+
+49
+
+Gatuadress
+
+John Ericssons Väg 79 A
+
+Fastighetsbeteckning
+
+Hilleröd 5
+
+Skyddsrumsnr
+
+106222-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160269-6
+Antal platser
+
+60
+
+Gatuadress
+
+Norra Vallgatan 3
+
+Fastighetsbeteckning
+
+Innerstaden 1:14
+
+Skyddsrumsnr
+
+160269-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78
+
+Skyddsrum: 106748-5
+Antal platser
+
+124 av 132
+
+65
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+65
+
+Gatuadress
+
+Ribevägen 18 A
+
+Fastighetsbeteckning
+
+Langeland 1
+
+Skyddsrumsnr
+
+106748-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106745-9
+Antal platser
+
+84
+
+Gatuadress
+
+Ribevägen 12 A-D
+
+Fastighetsbeteckning
+
+Langeland 3
+
+Skyddsrumsnr
+
+106745-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107304-3
+Antal platser
+
+56
+
+Gatuadress
+
+Mariedalsvägen 64
+
+Fastighetsbeteckning
+
+Själland 1
+
+Skyddsrumsnr
+
+107304-3
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106045-3
+Antal platser
+
+85
+
+Gatuadress
+
+Bobergsängen 3
+
+Fastighetsbeteckning
+
+Fyen 3
+
+Skyddsrumsnr
+
+106045-3
+
+125 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrumsnr
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 106044-8
+Antal platser
+
+72
+
+Gatuadress
+
+Bobergsängen 5
+
+Fastighetsbeteckning
+
+Fyen 3
+
+Skyddsrumsnr
+
+106044-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 160513-1
+Antal platser
+
+170
+
+Gatuadress
+
+Lugna gatan 45
+
+Fastighetsbeteckning
+
+Lärkan 8
+
+Skyddsrumsnr
+
+160513-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB74
+
+Skyddsrum: 107408-9
+Antal platser
+
+1
+
+Gatuadress
+
+Kalendegatan 28
+
+Fastighetsbeteckning
+
+Spinneriet 8
+
+Skyddsrumsnr
+
+107408-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+
+2025-08-06 2:00 fm
+
+TillfälligbegränsningTill
+
+2029-08-29 2:00 fm
+
+126 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Teknisk regel
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+ASKR
+
+Skyddsrum: 107305-9
+Antal platser
+
+77
+
+Gatuadress
+
+Roskildevägen 35
+
+Fastighetsbeteckning
+
+Själland 1
+
+Skyddsrumsnr
+
+107305-9
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+S7
+
+Skyddsrum: 107126-6
+Antal platser
+
+84
+
+Gatuadress
+
+Köpenhamnsvägen 48 C
+
+Fastighetsbeteckning
+
+Pukan 1
+
+Skyddsrumsnr
+
+107126-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107736-2
+Antal platser
+
+60
+
+Gatuadress
+
+John Ericssons Väg 87 E-f
+
+Fastighetsbeteckning
+
+Trumpeten 2
+
+Skyddsrumsnr
+
+107736-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+Skyddsrum: 107733-6
+
+127 av 132
+
+ASKR
+
+2025-12-02 06:59
+
+Skyddsrum: 107733-6
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Antal platser
+
+89
+
+Gatuadress
+
+John Ericssons väg 85 c
+
+Fastighetsbeteckning
+
+Trumpeten 2
+
+Skyddsrumsnr
+
+107733-6
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107734-1
+Antal platser
+
+80
+
+Gatuadress
+
+John Ericssons väg 85 E-F
+
+Fastighetsbeteckning
+
+Trumpeten 2
+
+Skyddsrumsnr
+
+107734-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107735-7
+Antal platser
+
+89
+
+Gatuadress
+
+John Ericssons väg 87 A-B
+
+Fastighetsbeteckning
+
+Trumpeten 2
+
+Skyddsrumsnr
+
+107735-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107732-0
+Antal platser
+
+44
+
+Gatuadress
+
+Bellevuevägen 5
+
+128 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Fastighetsbeteckning
+
+Trumpeten 2
+
+Skyddsrumsnr
+
+107732-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107731-5
+Antal platser
+
+100
+
+Gatuadress
+
+Bellevuevägen 5
+
+Fastighetsbeteckning
+
+Trumpeten 2
+
+Skyddsrumsnr
+
+107731-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160514-7
+Antal platser
+
+170
+
+Gatuadress
+
+Lugna gatan 39
+
+Fastighetsbeteckning
+
+Lärkan 8
+
+Skyddsrumsnr
+
+160514-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB74
+
+Skyddsrum: 191052-4
+Antal platser
+
+89
+
+Gatuadress
+
+Östra Kanalgatan 4
+
+Fastighetsbeteckning
+
+Fasanen 5
+
+Skyddsrumsnr
+
+191052-4
+
+Kommunnamn
+
+Malmö
+
+129 av 132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 191054-5
+Antal platser
+
+60
+
+Gatuadress
+
+Kaptensgatan 1
+
+Fastighetsbeteckning
+
+Fasanen 5
+
+Skyddsrumsnr
+
+191054-5
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 191055-0
+Antal platser
+
+155
+
+Gatuadress
+
+Kaptensgatan 1
+
+Fastighetsbeteckning
+
+Fasanen 5
+
+Skyddsrumsnr
+
+191055-0
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB78 i bef byggnad
+
+Skyddsrum: 107080-7
+Antal platser
+
+100
+
+Gatuadress
+
+John Ericssons Väg 74
+
+Fastighetsbeteckning
+
+Pilåkern 1
+
+Skyddsrumsnr
+
+107080-7
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+130 av 132
+
+ASKR
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+Skyddsrum: 107081-2
+Antal platser
+
+132
+
+Gatuadress
+
+John Ericssons Väg 70
+
+Fastighetsbeteckning
+
+Pilåkern 1
+
+Skyddsrumsnr
+
+107081-2
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 107082-8
+Antal platser
+
+132
+
+Gatuadress
+
+John Ericssons Väg 66
+
+Fastighetsbeteckning
+
+Pilåkern 1
+
+Skyddsrumsnr
+
+107082-8
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+ASKR
+
+Skyddsrum: 160476-1
+Antal platser
+
+180
+
+Gatuadress
+
+Storgatan 6
+
+Fastighetsbeteckning
+
+Katten 17
+
+Skyddsrumsnr
+
+160476-1
+
+Kommunnamn
+
+Malmö
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+TB74
+
+Skyddsrum: 176312-7
+Antal platser
+
+131 av 132
+
+132
+
+2025-12-02 06:59
+
+MSB:s skyddsrumskarta
+Antal platser
+
+132
+
+Gatuadress
+
+Storgatan 5
+
+Fastighetsbeteckning
+
+Gamen 15
+
+Skyddsrumsnr
+
+176312-7
+
+Kommunnamn
+
+Malmö
+
+https://msbgis.maps.arcgis.com/apps/instant/nearby/index...
+
+TillfälligbegränsningFrån
+TillfälligbegränsningTill
+Teknisk regel
+
+132 av 132
+
+TB74
+
+2025-12-02 06:59
+
+

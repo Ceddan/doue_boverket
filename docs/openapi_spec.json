@@ -1,0 +1,93 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "title": "AZU001 Energideklarationer",
+        "description": "Boverkets publika API för energideklarationer",
+        "version": "1.0"
+    },
+    "servers": [
+        {
+            "url": "https://api.boverket.se/energideklarationer"
+        }
+    ],
+    "paths": {
+        "/": {
+            "get": {
+                "summary": "Hämta energideklaration",
+                "operationId": "get-energy-declaration",
+                "parameters": [
+                    {
+                        "name": "kommun",
+                        "in": "query",
+                        "description": "Ange kommun (obligatorisk uppgift)",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "fastighetsbeteckning",
+                        "in": "query",
+                        "description": "Ange fastighetsbeteckning (obligatorisk uppgift om inte adress anges)",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "adress",
+                        "in": "query",
+                        "description": "Ange gatuadress (obligatorisk uppgift om inte fastighetsbeteckning anges)",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    },
+                    "400": {
+                        "description": ""
+                    },
+                    "401": {
+                        "description": ""
+                    },
+                    "403": {
+                        "description": ""
+                    },
+                    "404": {
+                        "description": ""
+                    },
+                    "429": {
+                        "description": ""
+                    },
+                    "503": {
+                        "description": ""
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "securitySchemes": {
+            "apiKeyHeader": {
+                "type": "apiKey",
+                "name": "Ocp-Apim-Subscription-Key",
+                "in": "header"
+            },
+            "apiKeyQuery": {
+                "type": "apiKey",
+                "name": "subscription-key",
+                "in": "query"
+            }
+        }
+    },
+    "security": [
+        {
+            "apiKeyHeader": []
+        },
+        {
+            "apiKeyQuery": []
+        }
+    ]
+}

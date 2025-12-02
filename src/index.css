@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light Mode - Clean black/grey/white */
+    --color-bg-primary: 255 255 255;      /* white */
+    --color-bg-secondary: 250 250 250;    /* neutral-50 */
+    --color-bg-card: 255 255 255;         /* white */
+    --color-bg-input: 255 255 255;
+    --color-bg-hover: 245 245 245;        /* neutral-100 */
+
+    --color-text-primary: 23 23 23;       /* neutral-900 */
+    --color-text-secondary: 64 64 64;     /* neutral-700 */
+    --color-text-muted: 115 115 115;      /* neutral-500 */
+    --color-text-placeholder: 115 115 115; /* neutral-500 - WCAG AA compliant 4.7:1 */
+
+    --color-border-default: 229 229 229;  /* neutral-200 */
+    --color-border-strong: 163 163 163;   /* neutral-400 */
+
+    --color-accent: 64 64 64;             /* neutral-700 */
+    --color-accent-hover: 38 38 38;       /* neutral-800 */
+
+    /* Energy class colors - keep for data visualization */
+    --energy-a: 34 197 94;                /* green-500 */
+    --energy-b: 34 197 94;                /* green-500 */
+    --energy-c: 132 204 22;               /* lime-500 */
+    --energy-d: 234 179 8;                /* yellow-500 */
+    --energy-e: 249 115 22;               /* orange-500 */
+    --energy-f: 239 68 68;                /* red-500 */
+    --energy-g: 239 68 68;                /* red-500 */
+  }
+
+  .dark {
+    /* Dark Mode - Clean black/grey/white */
+    --color-bg-primary: 10 10 10;         /* near black */
+    --color-bg-secondary: 23 23 23;       /* neutral-900 */
+    --color-bg-card: 32 32 32;            /* slightly lighter */
+    --color-bg-input: 23 23 23;           /* neutral-900 */
+    --color-bg-hover: 38 38 38;           /* neutral-800 */
+
+    --color-text-primary: 250 250 250;    /* neutral-50 */
+    --color-text-secondary: 212 212 212;  /* neutral-300 */
+    --color-text-muted: 163 163 163;      /* neutral-400 */
+    --color-text-placeholder: 115 115 115; /* neutral-500 */
+
+    --color-border-default: 64 64 64;     /* neutral-700 */
+    --color-border-strong: 82 82 82;      /* neutral-600 */
+
+    --color-accent: 212 212 212;          /* neutral-300 */
+    --color-accent-hover: 250 250 250;    /* neutral-50 */
+  }
+
+  * {
+    @apply border-line;
+  }
+
+  html {
+    font-size: 14px;
+  }
+
+  body {
+    @apply bg-bg-primary text-content-primary font-sans antialiased;
+    margin: 0;
+    line-height: 1.5;
+  }
+}
+
+@layer utilities {
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@layer components {
+  /* Header - simple solid background */
+  .glass-panel {
+    @apply bg-bg-card border-b border-line;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-bg-primary;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-line-strong rounded;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-content-muted;
+  }
+}

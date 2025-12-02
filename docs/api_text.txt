@@ -1,0 +1,254 @@
+Instruktion för Boverkets
+publika gränssnitt
+Version 1.3
+
+Boverket
+
+Innehåll
+Inledning ....................................................................................... 3
+Avtals- och distributionsprocessen................................................ 5
+Användaravtal ....................................................................................... 5
+
+Orientering i utvecklarportalen ...................................................... 6
+1. Landningssida (Hem) ........................................................................ 6
+2. API-vy (Lista API) ............................................................................. 7
+3. API-beskrivning ................................................................................. 8
+4. Testa API:et (Try It) ........................................................................ 10
+5. Användarprofil-vy (Profil) ................................................................ 12
+
+Arbetsflöden ................................................................................14
+
+Boverket
+
+Instruktion för Boverkets publika gränssnitt
+
+3
+
+Inledning
+Detta dokument beskriver handhavande för att få tillgång till av Boverket erbjudna
+publika användargränssnitt, så kallade API, avsedda att anropas av kundens egen programvara för att konsumera Boverkets publika tjänster.
+Som teknikplattform används Microsofts molnlösning (Azure) för att implementera
+Boverkets publika användargränssnitt och vidare används Microsofts utvecklarportal
+för distribution av användarinformation och nödvändiga accessnycklar. Utvecklarportalen beskrivs i detta dokument.
+Nedan följer en lista med centrala begrepp.
+•
+
+Kund – Det företag eller den institution som tecknat avtal med Boverket om att
+använda publika användargränssnitt hos Boverket.
+
+•
+
+Användare – Beteckning på hur en kund registreras i systemet. Härav följer också
+att en användare representerar ett företag eller en institution. Eventuell distribution
+av accessmöjligheter till enskilda programvaruutvecklare inom kundens organisation är kundens eget interna ansvar.
+
+•
+
+API – Publikt användargränssnitt. I den mån Boverket erbjuder flertalet publika
+användargränssnitt (API) är det möjligt för kund att teckna enskilt användaravtal
+per API.
+
+•
+
+Abonnemang – Koppling mellan användare och API som ger access till API. För
+en kund med flera abonnemang mot olika API, kan enskilda abonnemang underhållas av Boverket individuellt. Exempel på sådant underhåll är att teckna nya
+abonnemang eller att ta bort existerande.
+
+•
+
+Produkt - En administrativ komponent i utvecklarportalen som utgör den faktiska
+instansen en användare får tillgång till genom sitt abonnemang. Således får en användare, via ett abonnemang en accessrätt till en produkt som i sin tur ger access
+till ett API.
+
+•
+
+Accessnyckel – En komponent som krävs i HTTP-huvudet vid anrop mot ett
+publikt användargränssnitt. Accessnycklar kan underhållas av kunden själv i utvecklarportalen.
+
+Boverket
+
+4
+
+Instruktion för Boverkets publika gränssnitt
+
+Relationer mellan API, produkt, abonnemang och användare för enskild kund i Boverkets implementation:
+
+Boverket
+
+Instruktion för Boverkets publika gränssnitt
+
+5
+
+Avtals- och distributionsprocessen
+Användaravtal
+När Boverket tecknat avtal med en kund registreras denna som användare i systemet.
+För detta krävs uppgifter på för-, efternamn och e-postadress på kundnivå. Via email
+till den angivna e-postadressen, distribueras en länk där lösenordet ändras till ett personligt. Detta lösenord behövs i ett senare skede för åtkomst i utvecklarportalen, där
+kan kunden till viss del hantera sina egna abonnemang.
+Användaravtal tecknas per API som en kund önskar tillgång till. När Boverket tecknat
+avtal med en kund angående ett API registreras detta i systemet i form av ett abonnemang som knyter kundens användare till ett API. För varje nytt abonnemang som
+läggs upp genereras ett välkomst-email. Detta email innehåller en länk till utvecklarportalen. Om ett nytt konto skapas kommer du även få ett epostmeddelande att byta
+lösenord.
+
+Boverket
+
+6
+
+Instruktion för Boverkets publika gränssnitt
+
+Orientering i utvecklarportalen
+Nedan beskrivs några av de vyer du, som användare, får tillgång till i utvecklarportalen, tillsammans med kortfattad beskrivning.
+
+1. Landningssida (Hem)
+Denna vy utgör landningssida for utvecklarportalen. Här finns de länkar du behöver
+för att komma vidare. Här finns också knappen för att logga ut.
+Om du inte är inloggad indikeras detta på samma ställe med texten ”Logga in”.
+
+De olika funktionerna beskrivs i följande kapitel.
+
+Boverket
+
+Instruktion för Boverkets publika gränssnitt
+
+7
+
+2. API-vy (Lista API)
+I denna vy listas samtliga publika gränssnitt som en användare har tillgång till. I exemplet nedan så har du endast abonnemang mot gränssnittet AZU001 Energideklarationer. Beteckningen AZU001 är en intern etikett men är relevant att uppge vid eventuell felanmälan.
+
+Boverket
+
+8
+
+Instruktion för Boverkets publika gränssnitt
+
+3. API-beskrivning
+Genom att klicka på en API-länk enligt bilden ovan, når du en vy som beskriver detta
+API samt erbjuder en möjlighet att testa det mot en verklig bakomliggande service via
+en ”Try It”-knapp.
+
+Under valet ”API definition” kan du ladda ner API-definitionen i de olika formaten
+OpenAPI och WADML. De exporterade definitionerna kan användas för dokumentation eller för att dela API-specifikationen med utvecklare. De olika alternativen är beskrivna i tabellen nedan.
+
+Boverket
+
+Format
+
+Beskrivning
+
+Open API 3
+
+Detta är den senaste versionen av OpenAPIspecifikationen, med stöd för både JSON och YAML.
+
+Open API 2
+
+Äldre version av OpenAPI-specifikationen.
+
+WADL (Web Application
+Description Language)
+
+Detta är ett XML-baserat format för att beskriva
+HTTP-baserade webbtjänster. Specifikationen är
+äldre med begränsat stöd i Azure API Management.
+Den kan importeras men rekommenderas inte.
+
+Instruktion för Boverkets publika gränssnitt
+
+9
+
+Bilden ovan visar i vänstermarginalen att det finns en (1) operation (GET). Genom att
+välja denna så kan du se en detaljerad beskrivning av API-URL och HTTP-frågeparametrar.
+
+Som bilden ovan visar har GET-anropet i detta API tre (3) definierade frågeparametrar.
+
+Boverket
+
+10
+
+Instruktion för Boverkets publika gränssnitt
+
+4. Testa API:et (Try It)
+Utvecklarportalen tillhandahåller funktionen "Try It" på API-referenssidorna så att
+portalbesökare kan testa dina API:er direkt via en interaktiv konsol.
+Här kan du ändra parametrarna i GET-anropet för att testa hur Boverkets API beter sig
+i olika scenarier.
+
+Förutom API-URL och HTTP-frågeparametrar måste HTTP-anropet innehålla en accessnyckel i huvudet med namnet ”Ocp-Apim-Subscription-Key”.
+Denna nyckel är en viktig del av autentiseringen för Azure API Management. Det är
+en unik identifierare som används för att autentisera anrop till API:er som hanteras av
+Azure API Management och skickas vanligtvis som en HTTP-header i API-anropet.
+Värdet på denna hittar du i användarprofil-vyn, och även under rubriken ”Headers”
+ovan.
+Under sektionen ”HTTP request” kan du få förslag på hur anropet kan utformas beroende på vilken teknologi ni använder. Du kan till exempel få exempel på hur anropet
+ser ut i olika programmeringsspråk.
+
+Boverket
+
+Instruktion för Boverkets publika gränssnitt
+
+11
+
+Genom at välja ”HTTP” kan du se hur HTTP-anropet ser ut med samtliga parametrar.
+Anropet skickas med Send-knappen och svaret kan sedan observeras under rubriken
+”HTTP Response”.
+
+Boverket
+
+12
+
+Instruktion för Boverkets publika gränssnitt
+
+5. Användarprofil-vy (Profil)
+I denna vy visas en komplett sammanställning av de abonnemang en användare har
+hos Boverket för publika gränssnitt. I det här fallet kan du se att användaren har ett (1)
+abonnemang med namnet ”Förvaltning ED Energideklarationer”, kopplat till en produkt med namnet ”Energideklarationer”. Under abonnemangs-namnet listas de två accessnycklar som kan användas för anrop av tillhörande API och dessa kan exponeras i
+klartext genom att klicka på ”Show”.
+
+I kolumnen ”Product” visas en produktbeteckning som är en administrativ komponent
+namngiven av Boverket.
+Du kan själv underhålla dina access-nycklar genom att regenerera dem vid behov om
+de eventuellt kommit på avvägar. Detta sker genom att klicka på ”Regenerate”. Notera
+dock att varje användarapplikation som implementerar motsvarande API-anrop måste
+då uppdateras med nytt värde i ”Ocp-Apim-Subscription-Key”.
+Under ”Profile” visas även epost och namn kopplat till kontot. Vi rekommenderar att
+du ser över namnet, och uppdaterar det vid behov genom att avvända knappen
+”Change name”.
+Du kan även uppdatera ditt lösenord med hjälp av knappen ”Change password”.
+
+Boverket
+
+Instruktion för Boverkets publika gränssnitt
+
+13
+
+Viktigt!
+Det finns ett antal möjliga handgrepp som i nuläget inte rekommenderas:
+•
+
+Ändra namn på abonnemanget (Rename)
+
+•
+
+Ta bort ett abonnemang (Cancel), detta sköts företrädesvis av Boverket efter
+kontakt. Om detta händer av misstag så måste abonnemanget återskapas. I
+princip ska ett nytt avtal sättas upp.
+
+Missbruk på ovanstående punkter beivras och kan leda till indraget avtal.
+
+Boverket
+
+Arbetsflöden
+Nedan listas några arbetsflöden:
+1. Ändra användarprofil
+Gå till Profil-vyn under inloggningsmenyn och ändra namn vid behov.
+2. Testa ett publikt API
+Gå till API-vyn och vidare till relevant API-beskrivnings-vy. Läs om detta API och
+klicka på ”Try it”. Fyll i nödvändig information, exempelvis HTTPfrågeparametrar, och klicka ”send”.
+3. Utveckla applikation mot ett API
+Börja med att studera API under API-vyn och relevant API-beskrivnings-vy. Visst
+stöd kan fås genom att titta på ”Code samples” längts ned på denna sida. Gå till användarprofil-vyn för att inhämta nödvändig accessnyckel för detta API.
+4. Accessnyckel ej längre säker
+Gå till användarprofil-vyn och re-generera accessnyckeln för ett abonnemang.
+Samtliga applikationer mot detta abonnemangs API måste nu uppdateras med ny
+accessnyckel.
+
+
